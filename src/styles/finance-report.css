@@ -306,6 +306,10 @@ body {
 	border-bottom: 1px solid var(--finance-border-strong);
 }
 
+.finance-table thead th.is-numeric {
+	text-align: right;
+}
+
 .finance-table td,
 .finance-table th {
 	padding-top: 0.42rem;

@@ -27,12 +27,377 @@
             }
           ]
         ],
-        "prRows": [],
+        "prRows": [
+          {
+            "prrAmounts": [
+              [
+                {
+                  "acommodity": "KRW",
+                  "aprice": null,
+                  "aquantity": {
+                    "decimalMantissa": 1460004,
+                    "decimalPlaces": 0,
+                    "floatingPoint": 1460004
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 0
+                  }
+                }
+              ]
+            ],
+            "prrAverage": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 1460004,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 1460004
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ],
+            "prrName": "사업수익",
+            "prrTotal": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 1460004,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 1460004
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ]
+          },
+          {
+            "prrAmounts": [
+              [
+                {
+                  "acommodity": "KRW",
+                  "aprice": null,
+                  "aquantity": {
+                    "decimalMantissa": 1460004,
+                    "decimalPlaces": 0,
+                    "floatingPoint": 1460004
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 0
+                  }
+                }
+              ]
+            ],
+            "prrAverage": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 1460004,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 1460004
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ],
+            "prrName": "사업수익:고유목적사업수익",
+            "prrTotal": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 1460004,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 1460004
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ]
+          },
+          {
+            "prrAmounts": [
+              [
+                {
+                  "acommodity": "KRW",
+                  "aprice": null,
+                  "aquantity": {
+                    "decimalMantissa": 280000,
+                    "decimalPlaces": 0,
+                    "floatingPoint": 280000
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 0
+                  }
+                }
+              ]
+            ],
+            "prrAverage": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 280000,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 280000
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ],
+            "prrName": "사업수익:고유목적사업수익:기부금수익",
+            "prrTotal": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 280000,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 280000
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ]
+          },
+          {
+            "prrAmounts": [
+              [
+                {
+                  "acommodity": "KRW",
+                  "aprice": null,
+                  "aquantity": {
+                    "decimalMantissa": 1180004,
+                    "decimalPlaces": 0,
+                    "floatingPoint": 1180004
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 0
+                  }
+                }
+              ]
+            ],
+            "prrAverage": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 1180004,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 1180004
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ],
+            "prrName": "사업수익:고유목적사업수익:회비수익",
+            "prrTotal": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 1180004,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 1180004
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ]
+          }
+        ],
         "prTotals": {
-          "prrAmounts": [],
-          "prrAverage": [],
+          "prrAmounts": [
+            [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 1460004,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 1460004
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ]
+          ],
+          "prrAverage": [
+            {
+              "acommodity": "KRW",
+              "aprice": null,
+              "aquantity": {
+                "decimalMantissa": 1460004,
+                "decimalPlaces": 0,
+                "floatingPoint": 1460004
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 0
+              }
+            }
+          ],
           "prrName": [],
-          "prrTotal": []
+          "prrTotal": [
+            {
+              "acommodity": "KRW",
+              "aprice": null,
+              "aquantity": {
+                "decimalMantissa": 1460004,
+                "decimalPlaces": 0,
+                "floatingPoint": 1460004
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 0
+              }
+            }
+          ]
         }
       },
       true
@@ -52,12 +417,747 @@
             }
           ]
         ],
-        "prRows": [],
+        "prRows": [
+          {
+            "prrAmounts": [
+              [
+                {
+                  "acommodity": "KRW",
+                  "aprice": null,
+                  "aquantity": {
+                    "decimalMantissa": 482788,
+                    "decimalPlaces": 0,
+                    "floatingPoint": 482788
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 0
+                  }
+                }
+              ]
+            ],
+            "prrAverage": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 482788,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 482788
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ],
+            "prrName": "사업비용",
+            "prrTotal": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 482788,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 482788
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ]
+          },
+          {
+            "prrAmounts": [
+              [
+                {
+                  "acommodity": "KRW",
+                  "aprice": null,
+                  "aquantity": {
+                    "decimalMantissa": 18000,
+                    "decimalPlaces": 0,
+                    "floatingPoint": 18000
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 0
+                  }
+                }
+              ]
+            ],
+            "prrAverage": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 18000,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 18000
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ],
+            "prrName": "사업비용:사업수행비용",
+            "prrTotal": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 18000,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 18000
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ]
+          },
+          {
+            "prrAmounts": [
+              [
+                {
+                  "acommodity": "KRW",
+                  "aprice": null,
+                  "aquantity": {
+                    "decimalMantissa": 18000,
+                    "decimalPlaces": 0,
+                    "floatingPoint": 18000
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 0
+                  }
+                }
+              ]
+            ],
+            "prrAverage": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 18000,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 18000
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ],
+            "prrName": "사업비용:사업수행비용:기타비용",
+            "prrTotal": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 18000,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 18000
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ]
+          },
+          {
+            "prrAmounts": [
+              [
+                {
+                  "acommodity": "KRW",
+                  "aprice": null,
+                  "aquantity": {
+                    "decimalMantissa": 18000,
+                    "decimalPlaces": 0,
+                    "floatingPoint": 18000
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 0
+                  }
+                }
+              ]
+            ],
+            "prrAverage": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 18000,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 18000
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ],
+            "prrName": "사업비용:사업수행비용:기타비용:도서인쇄비",
+            "prrTotal": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 18000,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 18000
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ]
+          },
+          {
+            "prrAmounts": [
+              [
+                {
+                  "acommodity": "KRW",
+                  "aprice": null,
+                  "aquantity": {
+                    "decimalMantissa": 464788,
+                    "decimalPlaces": 0,
+                    "floatingPoint": 464788
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 0
+                  }
+                }
+              ]
+            ],
+            "prrAverage": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 464788,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 464788
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ],
+            "prrName": "사업비용:일반관리비용",
+            "prrTotal": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 464788,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 464788
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ]
+          },
+          {
+            "prrAmounts": [
+              [
+                {
+                  "acommodity": "KRW",
+                  "aprice": null,
+                  "aquantity": {
+                    "decimalMantissa": 167788,
+                    "decimalPlaces": 0,
+                    "floatingPoint": 167788
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 0
+                  }
+                }
+              ]
+            ],
+            "prrAverage": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 167788,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 167788
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ],
+            "prrName": "사업비용:일반관리비용:기타비용",
+            "prrTotal": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 167788,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 167788
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ]
+          },
+          {
+            "prrAmounts": [
+              [
+                {
+                  "acommodity": "KRW",
+                  "aprice": null,
+                  "aquantity": {
+                    "decimalMantissa": 167788,
+                    "decimalPlaces": 0,
+                    "floatingPoint": 167788
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 0
+                  }
+                }
+              ]
+            ],
+            "prrAverage": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 167788,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 167788
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ],
+            "prrName": "사업비용:일반관리비용:기타비용:지급수수료",
+            "prrTotal": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 167788,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 167788
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ]
+          },
+          {
+            "prrAmounts": [
+              [
+                {
+                  "acommodity": "KRW",
+                  "aprice": null,
+                  "aquantity": {
+                    "decimalMantissa": 297000,
+                    "decimalPlaces": 0,
+                    "floatingPoint": 297000
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 0
+                  }
+                }
+              ]
+            ],
+            "prrAverage": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 297000,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 297000
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ],
+            "prrName": "사업비용:일반관리비용:시설비용",
+            "prrTotal": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 297000,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 297000
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ]
+          },
+          {
+            "prrAmounts": [
+              [
+                {
+                  "acommodity": "KRW",
+                  "aprice": null,
+                  "aquantity": {
+                    "decimalMantissa": 297000,
+                    "decimalPlaces": 0,
+                    "floatingPoint": 297000
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 0
+                  }
+                }
+              ]
+            ],
+            "prrAverage": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 297000,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 297000
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ],
+            "prrName": "사업비용:일반관리비용:시설비용:지급임차료",
+            "prrTotal": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 297000,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 297000
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ]
+          }
+        ],
         "prTotals": {
-          "prrAmounts": [],
-          "prrAverage": [],
+          "prrAmounts": [
+            [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 482788,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 482788
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ]
+          ],
+          "prrAverage": [
+            {
+              "acommodity": "KRW",
+              "aprice": null,
+              "aquantity": {
+                "decimalMantissa": 482788,
+                "decimalPlaces": 0,
+                "floatingPoint": 482788
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 0
+              }
+            }
+          ],
           "prrName": [],
-          "prrTotal": []
+          "prrTotal": [
+            {
+              "acommodity": "KRW",
+              "aprice": null,
+              "aquantity": {
+                "decimalMantissa": 482788,
+                "decimalPlaces": 0,
+                "floatingPoint": 482788
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 0
+              }
+            }
+          ]
         }
       },
       false
@@ -65,9 +1165,77 @@
   ],
   "cbrTitle": "Income Statement 2025-02-05..2025-12-31",
   "cbrTotals": {
-    "prrAmounts": [],
-    "prrAverage": [],
+    "prrAmounts": [
+      [
+        {
+          "acommodity": "KRW",
+          "aprice": null,
+          "aquantity": {
+            "decimalMantissa": 977216,
+            "decimalPlaces": 0,
+            "floatingPoint": 977216
+          },
+          "astyle": {
+            "ascommodityside": "R",
+            "ascommodityspaced": true,
+            "asdecimalpoint": ".",
+            "asdigitgroups": [
+              ",",
+              [
+                3
+              ]
+            ],
+            "asprecision": 0
+          }
+        }
+      ]
+    ],
+    "prrAverage": [
+      {
+        "acommodity": "KRW",
+        "aprice": null,
+        "aquantity": {
+          "decimalMantissa": 977216,
+          "decimalPlaces": 0,
+          "floatingPoint": 977216
+        },
+        "astyle": {
+          "ascommodityside": "R",
+          "ascommodityspaced": true,
+          "asdecimalpoint": ".",
+          "asdigitgroups": [
+            ",",
+            [
+              3
+            ]
+          ],
+          "asprecision": 0
+        }
+      }
+    ],
     "prrName": [],
-    "prrTotal": []
+    "prrTotal": [
+      {
+        "acommodity": "KRW",
+        "aprice": null,
+        "aquantity": {
+          "decimalMantissa": 977216,
+          "decimalPlaces": 0,
+          "floatingPoint": 977216
+        },
+        "astyle": {
+          "ascommodityside": "R",
+          "ascommodityspaced": true,
+          "asdecimalpoint": ".",
+          "asdigitgroups": [
+            ",",
+            [
+              3
+            ]
+          ],
+          "asprecision": 0
+        }
+      }
+    ]
   }
 }

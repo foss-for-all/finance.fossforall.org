@@ -1,0 +1,73 @@
+{
+  "cbrDates": [
+    [
+      {
+        "contents": "2025-02-05",
+        "tag": "Exact"
+      },
+      {
+        "contents": "2026-01-01",
+        "tag": "Exact"
+      }
+    ]
+  ],
+  "cbrSubreports": [
+    [
+      "Revenues",
+      {
+        "prDates": [
+          [
+            {
+              "contents": "2025-02-05",
+              "tag": "Exact"
+            },
+            {
+              "contents": "2026-01-01",
+              "tag": "Exact"
+            }
+          ]
+        ],
+        "prRows": [],
+        "prTotals": {
+          "prrAmounts": [],
+          "prrAverage": [],
+          "prrName": [],
+          "prrTotal": []
+        }
+      },
+      true
+    ],
+    [
+      "Expenses",
+      {
+        "prDates": [
+          [
+            {
+              "contents": "2025-02-05",
+              "tag": "Exact"
+            },
+            {
+              "contents": "2026-01-01",
+              "tag": "Exact"
+            }
+          ]
+        ],
+        "prRows": [],
+        "prTotals": {
+          "prrAmounts": [],
+          "prrAverage": [],
+          "prrName": [],
+          "prrTotal": []
+        }
+      },
+      false
+    ]
+  ],
+  "cbrTitle": "Income Statement 2025-02-05..2025-12-31",
+  "cbrTotals": {
+    "prrAmounts": [],
+    "prrAverage": [],
+    "prrName": [],
+    "prrTotal": []
+  }
+}

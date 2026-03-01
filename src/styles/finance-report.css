@@ -167,6 +167,16 @@ body {
 	font-variant-numeric: tabular-nums;
 }
 
+.finance-subtotal-table-container {
+	margin-top: 0.4rem;
+	border-top: 1px dashed var(--finance-border);
+	padding-top: 0.35rem;
+}
+
+.finance-subtotal-table td {
+	font-weight: 600;
+}
+
 .finance-header {
 	background: var(--finance-surface);
 	border-bottom: 1px solid var(--finance-border);

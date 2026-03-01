@@ -50,6 +50,7 @@ export interface SectionOption {
 export interface NormalizedSection extends SectionOption {
 	columns: string[];
 	rows: NormalizedRow[];
+	sectionTotals: NormalizedCell[];
 }
 
 export interface NormalizedReport {

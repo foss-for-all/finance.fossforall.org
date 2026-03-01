@@ -145,6 +145,7 @@ export default function FinanceReportApp({ catalog, dataMap }: FinanceReportAppP
 			? normalized.sections[0].columns
 			: normalized.reportTotals.map((_, index) => `Amount ${index + 1}`);
 	const totalsAnchorId = 'section-net';
+	const subtotalLabel = 'Subtotal';
 	const totalsRows =
 		selectedReportType === 'budget'
 			? totalsColumns.map((column, columnIndex) => ({
@@ -226,6 +227,30 @@ export default function FinanceReportApp({ catalog, dataMap }: FinanceReportAppP
 								<h2 className="title is-6 finance-report-section-title">{section.label}</h2>
 							</div>
 							<ReportTable columns={section.columns} rows={section.rows} />
+							<div className="table-container finance-subtotal-table-container">
+								<table className="table is-fullwidth finance-net-table finance-subtotal-table">
+									<tbody>
+										<tr>
+											<td>{subtotalLabel}</td>
+											{section.columns.map((column, columnIndex) => {
+												const values = formatAmountList(
+													(section.sectionTotals[columnIndex] ?? { amounts: [] }).amounts
+												);
+
+												return (
+													<td key={`${section.id}-${column}`} className="is-numeric">
+														<div className="cell-values">
+															{values.map((value, valueIndex) => (
+																<div key={`${section.id}-${column}-${value}-${valueIndex}`}>{value}</div>
+															))}
+														</div>
+													</td>
+												);
+											})}
+										</tr>
+									</tbody>
+								</table>
+							</div>
 						</section>
 					))}
 

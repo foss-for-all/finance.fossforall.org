@@ -98,6 +98,7 @@ function normalizeCbrReport(reportData: unknown): NormalizedReport {
 		const tuple = asArray(entry);
 		const label = typeof tuple[0] === 'string' ? tuple[0] : `Section ${sectionIndex + 1}`;
 		const subreportData = isRecord(tuple[1]) ? tuple[1] : {};
+		const subreportTotals = isRecord(subreportData.prTotals) ? subreportData.prTotals : {};
 		const rows = asArray(subreportData.prRows);
 
 		const normalizedRows: NormalizedRow[] = rows.map((row, rowIndex) => {
@@ -121,7 +122,8 @@ function normalizeCbrReport(reportData: unknown): NormalizedReport {
 			label,
 			anchorId: `section-${slugify(label)}-${sectionIndex}`,
 			columns: [formatDateRange(subreportData.prDates)],
-			rows: normalizedRows
+			rows: normalizedRows,
+			sectionTotals: [{ amounts: collectAmounts(subreportTotals.prrTotal) }]
 		};
 	});
 
@@ -165,7 +167,8 @@ function normalizeBudgetReport(reportData: unknown): NormalizedReport {
 				label: 'Budget Performance',
 				anchorId: 'section-budget-performance',
 				columns: ['Actual', 'Budget'],
-				rows: normalizedRows
+				rows: normalizedRows,
+				sectionTotals: [{ amounts: collectAmounts(totals[0]) }, { amounts: collectAmounts(totals[1]) }]
 			}
 		],
 		reportTotals: [{ amounts: collectAmounts(totals[0]) }, { amounts: collectAmounts(totals[1]) }]

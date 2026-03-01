@@ -1,11 +1,20 @@
 ---
-import Welcome from '../components/Welcome.astro';
+import 'bulma/css/bulma.min.css';
+import FinanceReportApp from '../components/finance/FinanceReportApp';
 import Layout from '../layouts/Layout.astro';
+import { buildReportCatalog } from '../lib/finance/catalog';
+import '../styles/finance-report.css';
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+const dataMap = import.meta.glob('../data/**/*.json', {
+	eager: true,
+	import: 'default'
+}) as Record<string, unknown>;
+
+const catalog = buildReportCatalog(dataMap);
 ---
 
-<Layout>
-	<Welcome />
+<Layout title="Finance Reports">
+	<div class="finance-layout">
+		<FinanceReportApp client:load catalog={catalog} dataMap={dataMap} />
+	</div>
 </Layout>

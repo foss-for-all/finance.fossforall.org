@@ -226,7 +226,7 @@ export default function FinanceReportApp({ catalog, dataMap }: FinanceReportAppP
 							<div className="finance-report-section-title-wrap">
 								<h2 className="title is-6 finance-report-section-title">{section.label}</h2>
 							</div>
-							<ReportTable columns={section.columns} rows={section.rows} />
+							<ReportTable columns={section.columns} rows={section.rows} reportType={selectedReportType} />
 							<div className="table-container finance-subtotal-table-container">
 								<table className="table is-fullwidth finance-net-table finance-subtotal-table">
 									<tbody>

@@ -1,5 +1,10 @@
 import type { MoneyAmount } from './types';
 
+export interface AggregatedAmount {
+	currency: string;
+	total: number;
+}
+
 const numberFormatter = new Intl.NumberFormat('ko-KR', {
 	maximumFractionDigits: 2
 });
@@ -42,12 +47,12 @@ export function formatAmount(amount: MoneyAmount): string {
 	return `${formattedValue} ${currency}`;
 }
 
-export function formatAmountList(amounts: MoneyAmount[]): string[] {
+export function aggregateAmountsByCurrency(amounts: MoneyAmount[]): AggregatedAmount[] {
 	if (amounts.length === 0) {
-		return ['-'];
+		return [];
 	}
 
-	const grouped = new Map<string, { currency: string; total: number }>();
+	const grouped = new Map<string, AggregatedAmount>();
 
 	for (const amount of amounts) {
 		const value = quantityValue(amount);
@@ -70,11 +75,16 @@ export function formatAmountList(amounts: MoneyAmount[]): string[] {
 		});
 	}
 
-	if (grouped.size === 0) {
+	return Array.from(grouped.values());
+}
+
+export function formatAmountList(amounts: MoneyAmount[]): string[] {
+	const aggregated = aggregateAmountsByCurrency(amounts);
+	if (aggregated.length === 0) {
 		return ['-'];
 	}
 
-	return Array.from(grouped.values()).map((entry) => {
+	return aggregated.map((entry) => {
 		const formattedValue = numberFormatter.format(entry.total);
 		return entry.currency ? `${formattedValue} ${entry.currency}` : formattedValue;
 	});

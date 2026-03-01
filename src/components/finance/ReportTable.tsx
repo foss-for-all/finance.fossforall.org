@@ -5,12 +5,13 @@ import {
 	useReactTable
 } from '@tanstack/react-table';
 import { useMemo } from 'react';
-import { formatAmountList } from '../../lib/finance/format';
-import type { NormalizedCell, NormalizedRow } from '../../lib/finance/types';
+import { aggregateAmountsByCurrency, formatAmountList } from '../../lib/finance/format';
+import type { NormalizedCell, NormalizedRow, ReportType } from '../../lib/finance/types';
 
 interface ReportTableProps {
 	columns: string[];
 	rows: NormalizedRow[];
+	reportType: ReportType;
 }
 
 const columnHelper = createColumnHelper<NormalizedRow>();
@@ -27,7 +28,47 @@ function CellValue({ cell }: { cell: NormalizedCell }) {
 	);
 }
 
-export default function ReportTable({ columns, rows }: ReportTableProps) {
+const percentFormatter = new Intl.NumberFormat('ko-KR', {
+	minimumFractionDigits: 1,
+	maximumFractionDigits: 1
+});
+
+function budgetPerformanceFromRow(row: NormalizedRow): { percentageText: string; progressValue: number | null } {
+	const actualTotals = aggregateAmountsByCurrency(row.cells[0]?.amounts ?? []);
+	const budgetTotals = aggregateAmountsByCurrency(row.cells[1]?.amounts ?? []);
+
+	if (actualTotals.length === 0 || budgetTotals.length === 0) {
+		return { percentageText: '-', progressValue: null };
+	}
+
+	const budgetByCurrency = new Map(budgetTotals.map((entry) => [entry.currency, entry.total]));
+
+	const comparableActual =
+		actualTotals.find((entry) => entry.currency === 'KRW' && budgetByCurrency.has('KRW')) ??
+		actualTotals.find((entry) => budgetByCurrency.has(entry.currency));
+
+	if (!comparableActual) {
+		return { percentageText: '-', progressValue: null };
+	}
+
+	const budgetValue = budgetByCurrency.get(comparableActual.currency);
+	if (budgetValue == null || budgetValue === 0) {
+		return { percentageText: '-', progressValue: null };
+	}
+
+	const percentage = (comparableActual.total / budgetValue) * 100;
+	if (!Number.isFinite(percentage)) {
+		return { percentageText: '-', progressValue: null };
+	}
+
+	const progressValue = Math.max(0, Math.min(100, percentage));
+	return {
+		percentageText: `${percentFormatter.format(percentage)}%`,
+		progressValue
+	};
+}
+
+export default function ReportTable({ columns, rows, reportType }: ReportTableProps) {
 	const tableColumns = useMemo(() => {
 		const amountColumns = columns.map((columnName, index) =>
 			columnHelper.display({
@@ -40,22 +81,58 @@ export default function ReportTable({ columns, rows }: ReportTableProps) {
 			})
 		);
 
-		return [
-			columnHelper.accessor('account', {
-				header: 'Account',
-				cell: ({ row, getValue }) => (
-					<div
-						className="account-cell"
-						style={{ paddingLeft: `${row.original.depth * 1.05}rem` }}
-						title={row.original.fullName}
-					>
-						{getValue()}
-					</div>
-				)
-			}),
-			...amountColumns
-		];
-	}, [columns]);
+		const performanceColumn =
+			reportType === 'budget'
+				? [
+						columnHelper.display({
+							id: 'performance-rate',
+							header: 'Performance',
+							cell: ({ row }) => {
+								const performance = budgetPerformanceFromRow(row.original);
+
+								if (performance.progressValue === null) {
+									return <span className="finance-performance-empty">-</span>;
+								}
+
+								return (
+									<div className="finance-performance-cell">
+										<progress
+											className="progress is-info is-small finance-performance-bar"
+											value={performance.progressValue}
+											max={100}
+										>
+											{performance.percentageText}
+										</progress>
+										<span className="finance-performance-text">{performance.percentageText}</span>
+									</div>
+								);
+							},
+							meta: {
+								isNumeric: true
+							}
+						})
+					]
+				: [];
+
+		const accountColumn = columnHelper.accessor('account', {
+			header: 'Account',
+			cell: ({ row, getValue }) => (
+				<div
+					className="account-cell"
+					style={{ paddingLeft: `${row.original.depth * 1.05}rem` }}
+					title={row.original.fullName}
+				>
+					{getValue()}
+				</div>
+			)
+		});
+
+		if (reportType === 'budget') {
+			return [accountColumn, ...performanceColumn, ...amountColumns];
+		}
+
+		return [accountColumn, ...amountColumns, ...performanceColumn];
+	}, [columns, reportType]);
 
 	const table = useReactTable({
 		data: rows,

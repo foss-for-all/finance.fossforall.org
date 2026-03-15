@@ -35,8 +35,8 @@
                   "acommodity": "KRW",
                   "aprice": null,
                   "aquantity": {
-                    "decimalMantissa": 1460004000,
-                    "decimalPlaces": 3,
+                    "decimalMantissa": 1460004,
+                    "decimalPlaces": 0,
                     "floatingPoint": 1460004
                   },
                   "astyle": {
@@ -49,7 +49,7 @@
                         3
                       ]
                     ],
-                    "asprecision": 3
+                    "asprecision": 0
                   }
                 }
               ]
@@ -73,7 +73,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ],
@@ -83,8 +83,8 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 1460004000,
-                  "decimalPlaces": 3,
+                  "decimalMantissa": 1460004,
+                  "decimalPlaces": 0,
                   "floatingPoint": 1460004
                 },
                 "astyle": {
@@ -97,7 +97,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ]
@@ -109,8 +109,8 @@
                   "acommodity": "KRW",
                   "aprice": null,
                   "aquantity": {
-                    "decimalMantissa": 1460004000,
-                    "decimalPlaces": 3,
+                    "decimalMantissa": 1460004,
+                    "decimalPlaces": 0,
                     "floatingPoint": 1460004
                   },
                   "astyle": {
@@ -123,7 +123,7 @@
                         3
                       ]
                     ],
-                    "asprecision": 3
+                    "asprecision": 0
                   }
                 }
               ]
@@ -147,7 +147,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ],
@@ -157,8 +157,8 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 1460004000,
-                  "decimalPlaces": 3,
+                  "decimalMantissa": 1460004,
+                  "decimalPlaces": 0,
                   "floatingPoint": 1460004
                 },
                 "astyle": {
@@ -171,7 +171,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ]
@@ -183,8 +183,8 @@
                   "acommodity": "KRW",
                   "aprice": null,
                   "aquantity": {
-                    "decimalMantissa": 280000000,
-                    "decimalPlaces": 3,
+                    "decimalMantissa": 280000,
+                    "decimalPlaces": 0,
                     "floatingPoint": 280000
                   },
                   "astyle": {
@@ -197,7 +197,7 @@
                         3
                       ]
                     ],
-                    "asprecision": 3
+                    "asprecision": 0
                   }
                 }
               ]
@@ -221,7 +221,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ],
@@ -231,8 +231,8 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 280000000,
-                  "decimalPlaces": 3,
+                  "decimalMantissa": 280000,
+                  "decimalPlaces": 0,
                   "floatingPoint": 280000
                 },
                 "astyle": {
@@ -245,7 +245,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ]
@@ -257,8 +257,8 @@
                   "acommodity": "KRW",
                   "aprice": null,
                   "aquantity": {
-                    "decimalMantissa": 1180004000,
-                    "decimalPlaces": 3,
+                    "decimalMantissa": 1180004,
+                    "decimalPlaces": 0,
                     "floatingPoint": 1180004
                   },
                   "astyle": {
@@ -271,7 +271,7 @@
                         3
                       ]
                     ],
-                    "asprecision": 3
+                    "asprecision": 0
                   }
                 }
               ]
@@ -295,7 +295,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ],
@@ -305,8 +305,8 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 1180004000,
-                  "decimalPlaces": 3,
+                  "decimalMantissa": 1180004,
+                  "decimalPlaces": 0,
                   "floatingPoint": 1180004
                 },
                 "astyle": {
@@ -319,7 +319,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ]
@@ -332,8 +332,8 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 1460004000,
-                  "decimalPlaces": 3,
+                  "decimalMantissa": 1460004,
+                  "decimalPlaces": 0,
                   "floatingPoint": 1460004
                 },
                 "astyle": {
@@ -346,7 +346,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ]
@@ -370,7 +370,7 @@
                     3
                   ]
                 ],
-                "asprecision": 3
+                "asprecision": 0
               }
             }
           ],
@@ -380,8 +380,8 @@
               "acommodity": "KRW",
               "aprice": null,
               "aquantity": {
-                "decimalMantissa": 1460004000,
-                "decimalPlaces": 3,
+                "decimalMantissa": 1460004,
+                "decimalPlaces": 0,
                 "floatingPoint": 1460004
               },
               "astyle": {
@@ -394,7 +394,7 @@
                     3
                   ]
                 ],
-                "asprecision": 3
+                "asprecision": 0
               }
             }
           ]
@@ -425,8 +425,8 @@
                   "acommodity": "KRW",
                   "aprice": null,
                   "aquantity": {
-                    "decimalMantissa": 482788000,
-                    "decimalPlaces": 3,
+                    "decimalMantissa": 482788,
+                    "decimalPlaces": 0,
                     "floatingPoint": 482788
                   },
                   "astyle": {
@@ -439,7 +439,7 @@
                         3
                       ]
                     ],
-                    "asprecision": 3
+                    "asprecision": 0
                   }
                 }
               ]
@@ -463,7 +463,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ],
@@ -473,8 +473,8 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 482788000,
-                  "decimalPlaces": 3,
+                  "decimalMantissa": 482788,
+                  "decimalPlaces": 0,
                   "floatingPoint": 482788
                 },
                 "astyle": {
@@ -487,7 +487,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ]
@@ -499,8 +499,8 @@
                   "acommodity": "KRW",
                   "aprice": null,
                   "aquantity": {
-                    "decimalMantissa": 18000000,
-                    "decimalPlaces": 3,
+                    "decimalMantissa": 18000,
+                    "decimalPlaces": 0,
                     "floatingPoint": 18000
                   },
                   "astyle": {
@@ -513,7 +513,7 @@
                         3
                       ]
                     ],
-                    "asprecision": 3
+                    "asprecision": 0
                   }
                 }
               ]
@@ -537,7 +537,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ],
@@ -547,8 +547,8 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 18000000,
-                  "decimalPlaces": 3,
+                  "decimalMantissa": 18000,
+                  "decimalPlaces": 0,
                   "floatingPoint": 18000
                 },
                 "astyle": {
@@ -561,7 +561,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ]
@@ -573,8 +573,8 @@
                   "acommodity": "KRW",
                   "aprice": null,
                   "aquantity": {
-                    "decimalMantissa": 18000000,
-                    "decimalPlaces": 3,
+                    "decimalMantissa": 18000,
+                    "decimalPlaces": 0,
                     "floatingPoint": 18000
                   },
                   "astyle": {
@@ -587,7 +587,7 @@
                         3
                       ]
                     ],
-                    "asprecision": 3
+                    "asprecision": 0
                   }
                 }
               ]
@@ -611,7 +611,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ],
@@ -621,8 +621,8 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 18000000,
-                  "decimalPlaces": 3,
+                  "decimalMantissa": 18000,
+                  "decimalPlaces": 0,
                   "floatingPoint": 18000
                 },
                 "astyle": {
@@ -635,7 +635,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ]
@@ -647,8 +647,8 @@
                   "acommodity": "KRW",
                   "aprice": null,
                   "aquantity": {
-                    "decimalMantissa": 18000000,
-                    "decimalPlaces": 3,
+                    "decimalMantissa": 18000,
+                    "decimalPlaces": 0,
                     "floatingPoint": 18000
                   },
                   "astyle": {
@@ -661,7 +661,7 @@
                         3
                       ]
                     ],
-                    "asprecision": 3
+                    "asprecision": 0
                   }
                 }
               ]
@@ -685,7 +685,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ],
@@ -695,8 +695,8 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 18000000,
-                  "decimalPlaces": 3,
+                  "decimalMantissa": 18000,
+                  "decimalPlaces": 0,
                   "floatingPoint": 18000
                 },
                 "astyle": {
@@ -709,7 +709,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ]
@@ -721,8 +721,8 @@
                   "acommodity": "KRW",
                   "aprice": null,
                   "aquantity": {
-                    "decimalMantissa": 464788000,
-                    "decimalPlaces": 3,
+                    "decimalMantissa": 464788,
+                    "decimalPlaces": 0,
                     "floatingPoint": 464788
                   },
                   "astyle": {
@@ -735,7 +735,7 @@
                         3
                       ]
                     ],
-                    "asprecision": 3
+                    "asprecision": 0
                   }
                 }
               ]
@@ -759,7 +759,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ],
@@ -769,8 +769,8 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 464788000,
-                  "decimalPlaces": 3,
+                  "decimalMantissa": 464788,
+                  "decimalPlaces": 0,
                   "floatingPoint": 464788
                 },
                 "astyle": {
@@ -783,7 +783,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ]
@@ -795,8 +795,8 @@
                   "acommodity": "KRW",
                   "aprice": null,
                   "aquantity": {
-                    "decimalMantissa": 167788000,
-                    "decimalPlaces": 3,
+                    "decimalMantissa": 167788,
+                    "decimalPlaces": 0,
                     "floatingPoint": 167788
                   },
                   "astyle": {
@@ -809,7 +809,7 @@
                         3
                       ]
                     ],
-                    "asprecision": 3
+                    "asprecision": 0
                   }
                 }
               ]
@@ -833,7 +833,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ],
@@ -843,8 +843,8 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 167788000,
-                  "decimalPlaces": 3,
+                  "decimalMantissa": 167788,
+                  "decimalPlaces": 0,
                   "floatingPoint": 167788
                 },
                 "astyle": {
@@ -857,7 +857,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ]
@@ -869,8 +869,8 @@
                   "acommodity": "KRW",
                   "aprice": null,
                   "aquantity": {
-                    "decimalMantissa": 167788000,
-                    "decimalPlaces": 3,
+                    "decimalMantissa": 167788,
+                    "decimalPlaces": 0,
                     "floatingPoint": 167788
                   },
                   "astyle": {
@@ -883,7 +883,7 @@
                         3
                       ]
                     ],
-                    "asprecision": 3
+                    "asprecision": 0
                   }
                 }
               ]
@@ -907,7 +907,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ],
@@ -917,8 +917,8 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 167788000,
-                  "decimalPlaces": 3,
+                  "decimalMantissa": 167788,
+                  "decimalPlaces": 0,
                   "floatingPoint": 167788
                 },
                 "astyle": {
@@ -931,7 +931,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ]
@@ -943,8 +943,8 @@
                   "acommodity": "KRW",
                   "aprice": null,
                   "aquantity": {
-                    "decimalMantissa": 297000000,
-                    "decimalPlaces": 3,
+                    "decimalMantissa": 297000,
+                    "decimalPlaces": 0,
                     "floatingPoint": 297000
                   },
                   "astyle": {
@@ -957,7 +957,7 @@
                         3
                       ]
                     ],
-                    "asprecision": 3
+                    "asprecision": 0
                   }
                 }
               ]
@@ -981,7 +981,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ],
@@ -991,8 +991,8 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 297000000,
-                  "decimalPlaces": 3,
+                  "decimalMantissa": 297000,
+                  "decimalPlaces": 0,
                   "floatingPoint": 297000
                 },
                 "astyle": {
@@ -1005,7 +1005,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ]
@@ -1017,8 +1017,8 @@
                   "acommodity": "KRW",
                   "aprice": null,
                   "aquantity": {
-                    "decimalMantissa": 297000000,
-                    "decimalPlaces": 3,
+                    "decimalMantissa": 297000,
+                    "decimalPlaces": 0,
                     "floatingPoint": 297000
                   },
                   "astyle": {
@@ -1031,7 +1031,7 @@
                         3
                       ]
                     ],
-                    "asprecision": 3
+                    "asprecision": 0
                   }
                 }
               ]
@@ -1055,7 +1055,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ],
@@ -1065,8 +1065,8 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 297000000,
-                  "decimalPlaces": 3,
+                  "decimalMantissa": 297000,
+                  "decimalPlaces": 0,
                   "floatingPoint": 297000
                 },
                 "astyle": {
@@ -1079,7 +1079,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ]
@@ -1092,8 +1092,8 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 482788000,
-                  "decimalPlaces": 3,
+                  "decimalMantissa": 482788,
+                  "decimalPlaces": 0,
                   "floatingPoint": 482788
                 },
                 "astyle": {
@@ -1106,7 +1106,7 @@
                       3
                     ]
                   ],
-                  "asprecision": 3
+                  "asprecision": 0
                 }
               }
             ]
@@ -1130,7 +1130,7 @@
                     3
                   ]
                 ],
-                "asprecision": 3
+                "asprecision": 0
               }
             }
           ],
@@ -1140,8 +1140,8 @@
               "acommodity": "KRW",
               "aprice": null,
               "aquantity": {
-                "decimalMantissa": 482788000,
-                "decimalPlaces": 3,
+                "decimalMantissa": 482788,
+                "decimalPlaces": 0,
                 "floatingPoint": 482788
               },
               "astyle": {
@@ -1154,7 +1154,7 @@
                     3
                   ]
                 ],
-                "asprecision": 3
+                "asprecision": 0
               }
             }
           ]
@@ -1171,8 +1171,8 @@
           "acommodity": "KRW",
           "aprice": null,
           "aquantity": {
-            "decimalMantissa": 977216000,
-            "decimalPlaces": 3,
+            "decimalMantissa": 977216,
+            "decimalPlaces": 0,
             "floatingPoint": 977216
           },
           "astyle": {
@@ -1185,7 +1185,7 @@
                 3
               ]
             ],
-            "asprecision": 3
+            "asprecision": 0
           }
         }
       ]
@@ -1209,7 +1209,7 @@
               3
             ]
           ],
-          "asprecision": 3
+          "asprecision": 0
         }
       }
     ],
@@ -1219,8 +1219,8 @@
         "acommodity": "KRW",
         "aprice": null,
         "aquantity": {
-          "decimalMantissa": 977216000,
-          "decimalPlaces": 3,
+          "decimalMantissa": 977216,
+          "decimalPlaces": 0,
           "floatingPoint": 977216
         },
         "astyle": {
@@ -1233,7 +1233,7 @@
               3
             ]
           ],
-          "asprecision": 3
+          "asprecision": 0
         }
       }
     ]

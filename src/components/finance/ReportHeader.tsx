@@ -6,6 +6,7 @@ interface ReportHeaderProps {
 	fileOptions: CatalogFile[];
 	selectedFilePath: string;
 	onSelectFile: (path: string) => void;
+	onPrint: () => void;
 	openDrawer: () => void;
 }
 
@@ -15,8 +16,18 @@ export default function ReportHeader({
 	fileOptions,
 	selectedFilePath,
 	onSelectFile,
+	onPrint,
 	openDrawer
 }: ReportHeaderProps) {
+	const selectedFileName = fileOptions.find((file) => file.path === selectedFilePath)?.name ?? selectedFilePath;
+	const printTimestamp = new Intl.DateTimeFormat('ko-KR', {
+		year: 'numeric',
+		month: 'short',
+		day: 'numeric',
+		hour: '2-digit',
+		minute: '2-digit'
+	}).format(new Date());
+
 	return (
 		<header className="finance-header">
 			<div className="finance-header-top">
@@ -28,6 +39,9 @@ export default function ReportHeader({
 						<p className="finance-context">{contextLabel}</p>
 						<h1 className="title is-5 finance-title">{reportLabel}</h1>
 					</div>
+					<button type="button" className="button is-light finance-print-button" onClick={onPrint}>
+						Print
+					</button>
 				</div>
 
 				<div className="field finance-header-file-field">
@@ -49,6 +63,9 @@ export default function ReportHeader({
 					</div>
 				</div>
 			</div>
+			<p className="finance-print-meta">
+				{contextLabel} - {reportLabel} - File {selectedFileName} - Printed {printTimestamp}
+			</p>
 		</header>
 	);
 }

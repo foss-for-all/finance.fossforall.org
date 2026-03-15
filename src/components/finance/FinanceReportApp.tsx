@@ -171,6 +171,22 @@ export default function FinanceReportApp({ catalog, dataMap }: FinanceReportAppP
 		}
 	];
 
+	function handlePrint(): void {
+		if (typeof window === 'undefined') {
+			return;
+		}
+
+		if (isDrawerOpen) {
+			setIsDrawerOpen(false);
+			window.setTimeout(() => {
+				window.print();
+			}, 150);
+			return;
+		}
+
+		window.print();
+	}
+
 	return (
 		<div className="finance-app">
 			<div className={`finance-drawer ${isDrawerOpen ? 'is-open' : ''}`}>
@@ -216,6 +232,7 @@ export default function FinanceReportApp({ catalog, dataMap }: FinanceReportAppP
 					fileOptions={selectedReport.files}
 					selectedFilePath={selectedFilePath}
 					onSelectFile={setSelectedFilePath}
+					onPrint={handlePrint}
 					openDrawer={() => setIsDrawerOpen(true)}
 				/>
 				<SectionToc sections={tocSections} mode="mobile" />

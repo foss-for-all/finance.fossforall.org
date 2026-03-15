@@ -267,6 +267,10 @@ body {
     margin-bottom: 0.35rem;
 }
 
+.finance-print-meta {
+    display: none;
+}
+
 .finance-menu-button {
     display: none;
     border-color: var(--finance-border-strong);
@@ -274,6 +278,15 @@ body {
     color: var(--finance-text);
     font-size: 0.82rem;
     height: 1.9rem;
+}
+
+.finance-print-button {
+    border-color: var(--finance-border-strong);
+    background: var(--finance-surface-soft);
+    color: var(--finance-text);
+    font-size: 0.82rem;
+    height: 1.9rem;
+    margin-left: auto;
 }
 
 .finance-report-box {
@@ -447,6 +460,92 @@ body {
     background: rgba(15, 23, 42, 0.35);
     border: 0;
     z-index: 10;
+}
+
+@page {
+    margin: 12mm;
+}
+
+@media print {
+    html,
+    body,
+    .finance-layout,
+    .finance-app,
+    .finance-main,
+    .finance-report-scroll {
+        height: auto !important;
+        min-height: 0 !important;
+        overflow: visible !important;
+        background: #fff !important;
+        color: #000 !important;
+    }
+
+    .finance-app {
+        display: block !important;
+    }
+
+    .finance-drawer,
+    .finance-drawer-backdrop,
+    .finance-toc,
+    .finance-toc-mobile,
+    .finance-menu-button,
+    .finance-header-file-field,
+    .finance-print-button {
+        display: none !important;
+    }
+
+    .finance-header {
+        position: static !important;
+        border: 0;
+        padding: 0 0 0.45rem;
+    }
+
+    .finance-print-meta {
+        display: block;
+        margin: 0;
+        font-size: 0.74rem;
+        color: #000 !important;
+    }
+
+    .finance-header-top,
+    .finance-header-meta {
+        display: block;
+    }
+
+    .finance-context,
+    .finance-title,
+    .finance-report-section-title,
+    .finance-net-table td,
+    .finance-net-table th,
+    .finance-table td,
+    .finance-table th {
+        color: #000 !important;
+    }
+
+    .finance-report-box {
+        break-inside: avoid-page;
+        page-break-inside: avoid;
+        padding: 0 0 0.8rem;
+        scroll-margin-top: 0;
+    }
+
+    .finance-report-box + .finance-report-box {
+        border-top: 1px solid #d8d8d8;
+        padding-top: 0.55rem;
+    }
+
+    .finance-report-section-title-wrap {
+        border-bottom: 1px solid #d8d8d8;
+    }
+
+    .finance-table thead th {
+        position: static;
+        background: #f3f3f3 !important;
+    }
+
+    .finance-net-table thead th {
+        background: #f3f3f3 !important;
+    }
 }
 
 @media (max-width: 1180px) {

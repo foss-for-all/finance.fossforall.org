@@ -1232,6 +1232,80 @@
             "prrAmounts": [
               [
                 {
+                  "acommodity": "KRW",
+                  "aprice": null,
+                  "aquantity": {
+                    "decimalMantissa": 1054207,
+                    "decimalPlaces": 0,
+                    "floatingPoint": 1054207
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 0
+                  }
+                }
+              ]
+            ],
+            "prrAverage": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 1054207,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 1054207
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ],
+            "prrName": "법인세비용",
+            "prrTotal": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 1054207,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 1054207
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ]
+          },
+          {
+            "prrAmounts": [
+              [
+                {
                   "acommodity": "",
                   "aprice": null,
                   "aquantity": {
@@ -2924,9 +2998,9 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 6443610,
+                  "decimalMantissa": 7497817,
                   "decimalPlaces": 0,
-                  "floatingPoint": 6443610
+                  "floatingPoint": 7497817
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -2964,9 +3038,9 @@
               "acommodity": "KRW",
               "aprice": null,
               "aquantity": {
-                "decimalMantissa": 6443610,
+                "decimalMantissa": 7497817,
                 "decimalPlaces": 0,
-                "floatingPoint": 6443610
+                "floatingPoint": 7497817
               },
               "astyle": {
                 "ascommodityside": "R",
@@ -3004,9 +3078,9 @@
               "acommodity": "KRW",
               "aprice": null,
               "aquantity": {
-                "decimalMantissa": 6443610,
+                "decimalMantissa": 7497817,
                 "decimalPlaces": 0,
-                "floatingPoint": 6443610
+                "floatingPoint": 7497817
               },
               "astyle": {
                 "ascommodityside": "R",
@@ -3051,9 +3125,9 @@
           "acommodity": "KRW",
           "aprice": null,
           "aquantity": {
-            "decimalMantissa": 11767812,
+            "decimalMantissa": 10713605,
             "decimalPlaces": 0,
-            "floatingPoint": 11767812
+            "floatingPoint": 10713605
           },
           "astyle": {
             "ascommodityside": "R",
@@ -3091,9 +3165,9 @@
         "acommodity": "KRW",
         "aprice": null,
         "aquantity": {
-          "decimalMantissa": 11767812,
+          "decimalMantissa": 10713605,
           "decimalPlaces": 0,
-          "floatingPoint": 11767812
+          "floatingPoint": 10713605
         },
         "astyle": {
           "ascommodityside": "R",
@@ -3131,9 +3205,9 @@
         "acommodity": "KRW",
         "aprice": null,
         "aquantity": {
-          "decimalMantissa": 11767812,
+          "decimalMantissa": 10713605,
           "decimalPlaces": 0,
-          "floatingPoint": 11767812
+          "floatingPoint": 10713605
         },
         "astyle": {
           "ascommodityside": "R",

@@ -258,9 +258,9 @@
               "acommodity": "KRW",
               "aprice": null,
               "aquantity": {
-                "decimalMantissa": 3680000,
+                "decimalMantissa": 11620000,
                 "decimalPlaces": 0,
-                "floatingPoint": 3680000
+                "floatingPoint": 11620000
               },
               "astyle": {
                 "ascommodityside": "R",
@@ -307,9 +307,9 @@
             "acommodity": "KRW",
             "aprice": null,
             "aquantity": {
-              "decimalMantissa": 3680000,
+              "decimalMantissa": 11620000,
               "decimalPlaces": 0,
-              "floatingPoint": 3680000
+              "floatingPoint": 11620000
             },
             "astyle": {
               "ascommodityside": "R",
@@ -356,9 +356,9 @@
             "acommodity": "KRW",
             "aprice": null,
             "aquantity": {
-              "decimalMantissa": 3680000,
+              "decimalMantissa": 11620000,
               "decimalPlaces": 0,
-              "floatingPoint": 3680000
+              "floatingPoint": 11620000
             },
             "astyle": {
               "ascommodityside": "R",
@@ -525,6 +525,338 @@
               "decimalMantissa": 2000000,
               "decimalPlaces": 0,
               "floatingPoint": 2000000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "prrAmounts": [
+        [
+          null,
+          [
+            {
+              "acommodity": "KRW",
+              "aprice": null,
+              "aquantity": {
+                "decimalMantissa": 7940000,
+                "decimalPlaces": 0,
+                "floatingPoint": 7940000
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 0
+              }
+            }
+          ]
+        ]
+      ],
+      "prrAverage": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 7940000,
+              "decimalPlaces": 0,
+              "floatingPoint": 7940000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ],
+      "prrName": "수입:컨퍼런스",
+      "prrTotal": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 7940000,
+              "decimalPlaces": 0,
+              "floatingPoint": 7940000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "prrAmounts": [
+        [
+          null,
+          [
+            {
+              "acommodity": "KRW",
+              "aprice": null,
+              "aquantity": {
+                "decimalMantissa": 540000,
+                "decimalPlaces": 0,
+                "floatingPoint": 540000
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 0
+              }
+            }
+          ]
+        ]
+      ],
+      "prrAverage": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 540000,
+              "decimalPlaces": 0,
+              "floatingPoint": 540000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ],
+      "prrName": "수입:컨퍼런스:기념품판매수익",
+      "prrTotal": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 540000,
+              "decimalPlaces": 0,
+              "floatingPoint": 540000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "prrAmounts": [
+        [
+          null,
+          [
+            {
+              "acommodity": "KRW",
+              "aprice": null,
+              "aquantity": {
+                "decimalMantissa": 3400000,
+                "decimalPlaces": 0,
+                "floatingPoint": 3400000
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 0
+              }
+            }
+          ]
+        ]
+      ],
+      "prrAverage": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 3400000,
+              "decimalPlaces": 0,
+              "floatingPoint": 3400000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ],
+      "prrName": "수입:컨퍼런스:티켓수익",
+      "prrTotal": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 3400000,
+              "decimalPlaces": 0,
+              "floatingPoint": 3400000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "prrAmounts": [
+        [
+          null,
+          [
+            {
+              "acommodity": "KRW",
+              "aprice": null,
+              "aquantity": {
+                "decimalMantissa": 4000000,
+                "decimalPlaces": 0,
+                "floatingPoint": 4000000
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 0
+              }
+            }
+          ]
+        ]
+      ],
+      "prrAverage": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 4000000,
+              "decimalPlaces": 0,
+              "floatingPoint": 4000000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ],
+      "prrName": "수입:컨퍼런스:후원수익",
+      "prrTotal": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 4000000,
+              "decimalPlaces": 0,
+              "floatingPoint": 4000000
             },
             "astyle": {
               "ascommodityside": "R",
@@ -871,9 +1203,9 @@
               "acommodity": "KRW",
               "aprice": null,
               "aquantity": {
-                "decimalMantissa": 7170500,
+                "decimalMantissa": 12170500,
                 "decimalPlaces": 0,
-                "floatingPoint": 7170500
+                "floatingPoint": 12170500
               },
               "astyle": {
                 "ascommodityside": "R",
@@ -920,9 +1252,9 @@
             "acommodity": "KRW",
             "aprice": null,
             "aquantity": {
-              "decimalMantissa": 7170500,
+              "decimalMantissa": 12170500,
               "decimalPlaces": 0,
-              "floatingPoint": 7170500
+              "floatingPoint": 12170500
             },
             "astyle": {
               "ascommodityside": "R",
@@ -969,9 +1301,9 @@
             "acommodity": "KRW",
             "aprice": null,
             "aquantity": {
-              "decimalMantissa": 7170500,
+              "decimalMantissa": 12170500,
               "decimalPlaces": 0,
-              "floatingPoint": 7170500
+              "floatingPoint": 12170500
             },
             "astyle": {
               "ascommodityside": "R",
@@ -2314,6 +2646,753 @@
           }
         ]
       ]
+    },
+    {
+      "prrAmounts": [
+        [
+          null,
+          [
+            {
+              "acommodity": "KRW",
+              "aprice": null,
+              "aquantity": {
+                "decimalMantissa": 5000000,
+                "decimalPlaces": 0,
+                "floatingPoint": 5000000
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 0
+              }
+            }
+          ]
+        ]
+      ],
+      "prrAverage": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 5000000,
+              "decimalPlaces": 0,
+              "floatingPoint": 5000000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ],
+      "prrName": "지출:컨퍼런스",
+      "prrTotal": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 5000000,
+              "decimalPlaces": 0,
+              "floatingPoint": 5000000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "prrAmounts": [
+        [
+          null,
+          [
+            {
+              "acommodity": "KRW",
+              "aprice": null,
+              "aquantity": {
+                "decimalMantissa": 200000,
+                "decimalPlaces": 0,
+                "floatingPoint": 200000
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 0
+              }
+            }
+          ]
+        ]
+      ],
+      "prrAverage": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 200000,
+              "decimalPlaces": 0,
+              "floatingPoint": 200000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ],
+      "prrName": "지출:컨퍼런스:광고선전비",
+      "prrTotal": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 200000,
+              "decimalPlaces": 0,
+              "floatingPoint": 200000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "prrAmounts": [
+        [
+          null,
+          [
+            {
+              "acommodity": "KRW",
+              "aprice": null,
+              "aquantity": {
+                "decimalMantissa": 800000,
+                "decimalPlaces": 0,
+                "floatingPoint": 800000
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 0
+              }
+            }
+          ]
+        ]
+      ],
+      "prrAverage": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 800000,
+              "decimalPlaces": 0,
+              "floatingPoint": 800000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ],
+      "prrName": "지출:컨퍼런스:기념품제작비",
+      "prrTotal": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 800000,
+              "decimalPlaces": 0,
+              "floatingPoint": 800000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "prrAmounts": [
+        [
+          null,
+          [
+            {
+              "acommodity": "KRW",
+              "aprice": null,
+              "aquantity": {
+                "decimalMantissa": 350000,
+                "decimalPlaces": 0,
+                "floatingPoint": 350000
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 0
+              }
+            }
+          ]
+        ]
+      ],
+      "prrAverage": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 350000,
+              "decimalPlaces": 0,
+              "floatingPoint": 350000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ],
+      "prrName": "지출:컨퍼런스:보험료",
+      "prrTotal": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 350000,
+              "decimalPlaces": 0,
+              "floatingPoint": 350000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "prrAmounts": [
+        [
+          null,
+          [
+            {
+              "acommodity": "KRW",
+              "aprice": null,
+              "aquantity": {
+                "decimalMantissa": 1400000,
+                "decimalPlaces": 0,
+                "floatingPoint": 1400000
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 0
+              }
+            }
+          ]
+        ]
+      ],
+      "prrAverage": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 1400000,
+              "decimalPlaces": 0,
+              "floatingPoint": 1400000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ],
+      "prrName": "지출:컨퍼런스:식음료비",
+      "prrTotal": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 1400000,
+              "decimalPlaces": 0,
+              "floatingPoint": 1400000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "prrAmounts": [
+        [
+          null,
+          [
+            {
+              "acommodity": "KRW",
+              "aprice": null,
+              "aquantity": {
+                "decimalMantissa": 500000,
+                "decimalPlaces": 0,
+                "floatingPoint": 500000
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 0
+              }
+            }
+          ]
+        ]
+      ],
+      "prrAverage": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 500000,
+              "decimalPlaces": 0,
+              "floatingPoint": 500000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ],
+      "prrName": "지출:컨퍼런스:예비비",
+      "prrTotal": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 500000,
+              "decimalPlaces": 0,
+              "floatingPoint": 500000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "prrAmounts": [
+        [
+          null,
+          [
+            {
+              "acommodity": "KRW",
+              "aprice": null,
+              "aquantity": {
+                "decimalMantissa": 150000,
+                "decimalPlaces": 0,
+                "floatingPoint": 150000
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 0
+              }
+            }
+          ]
+        ]
+      ],
+      "prrAverage": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 150000,
+              "decimalPlaces": 0,
+              "floatingPoint": 150000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ],
+      "prrName": "지출:컨퍼런스:운반비",
+      "prrTotal": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 150000,
+              "decimalPlaces": 0,
+              "floatingPoint": 150000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "prrAmounts": [
+        [
+          null,
+          [
+            {
+              "acommodity": "KRW",
+              "aprice": null,
+              "aquantity": {
+                "decimalMantissa": 500000,
+                "decimalPlaces": 0,
+                "floatingPoint": 500000
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 0
+              }
+            }
+          ]
+        ]
+      ],
+      "prrAverage": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 500000,
+              "decimalPlaces": 0,
+              "floatingPoint": 500000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ],
+      "prrName": "지출:컨퍼런스:행사소모품비",
+      "prrTotal": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 500000,
+              "decimalPlaces": 0,
+              "floatingPoint": 500000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "prrAmounts": [
+        [
+          null,
+          [
+            {
+              "acommodity": "KRW",
+              "aprice": null,
+              "aquantity": {
+                "decimalMantissa": 1100000,
+                "decimalPlaces": 0,
+                "floatingPoint": 1100000
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 0
+              }
+            }
+          ]
+        ]
+      ],
+      "prrAverage": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 1100000,
+              "decimalPlaces": 0,
+              "floatingPoint": 1100000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ],
+      "prrName": "지출:컨퍼런스:행사장조성비",
+      "prrTotal": [
+        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 1100000,
+              "decimalPlaces": 0,
+              "floatingPoint": 1100000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ]
+      ]
     }
   ],
   "prTotals": {
@@ -2391,9 +3470,9 @@
             "acommodity": "KRW",
             "aprice": null,
             "aquantity": {
-              "decimalMantissa": 10850500,
+              "decimalMantissa": 23790500,
               "decimalPlaces": 0,
-              "floatingPoint": 10850500
+              "floatingPoint": 23790500
             },
             "astyle": {
               "ascommodityside": "R",
@@ -2484,9 +3563,9 @@
           "acommodity": "KRW",
           "aprice": null,
           "aquantity": {
-            "decimalMantissa": 10850500,
+            "decimalMantissa": 23790500,
             "decimalPlaces": 0,
-            "floatingPoint": 10850500
+            "floatingPoint": 23790500
           },
           "astyle": {
             "ascommodityside": "R",
@@ -2577,9 +3656,9 @@
           "acommodity": "KRW",
           "aprice": null,
           "aquantity": {
-            "decimalMantissa": 10850500,
+            "decimalMantissa": 23790500,
             "decimalPlaces": 0,
-            "floatingPoint": 10850500
+            "floatingPoint": 23790500
           },
           "astyle": {
             "ascommodityside": "R",

@@ -879,8 +879,8 @@
                     "tag": "UnitPrice"
                   },
                   "aquantity": {
-                    "decimalMantissa": 5,
-                    "decimalPlaces": 0,
+                    "decimalMantissa": 500,
+                    "decimalPlaces": 2,
                     "floatingPoint": 5
                   },
                   "astyle": {
@@ -1103,8 +1103,8 @@
                   "tag": "UnitPrice"
                 },
                 "aquantity": {
-                  "decimalMantissa": 5,
-                  "decimalPlaces": 0,
+                  "decimalMantissa": 500,
+                  "decimalPlaces": 2,
                   "floatingPoint": 5
                 },
                 "astyle": {
@@ -1217,8 +1217,8 @@
                     "tag": "UnitPrice"
                   },
                   "aquantity": {
-                    "decimalMantissa": 5,
-                    "decimalPlaces": 0,
+                    "decimalMantissa": 500,
+                    "decimalPlaces": 2,
                     "floatingPoint": 5
                   },
                   "astyle": {
@@ -1441,8 +1441,8 @@
                   "tag": "UnitPrice"
                 },
                 "aquantity": {
-                  "decimalMantissa": 5,
-                  "decimalPlaces": 0,
+                  "decimalMantissa": 500,
+                  "decimalPlaces": 2,
                   "floatingPoint": 5
                 },
                 "astyle": {
@@ -1555,8 +1555,8 @@
                     "tag": "UnitPrice"
                   },
                   "aquantity": {
-                    "decimalMantissa": 5,
-                    "decimalPlaces": 0,
+                    "decimalMantissa": 500,
+                    "decimalPlaces": 2,
                     "floatingPoint": 5
                   },
                   "astyle": {
@@ -1779,8 +1779,8 @@
                   "tag": "UnitPrice"
                 },
                 "aquantity": {
-                  "decimalMantissa": 5,
-                  "decimalPlaces": 0,
+                  "decimalMantissa": 500,
+                  "decimalPlaces": 2,
                   "floatingPoint": 5
                 },
                 "astyle": {
@@ -1946,8 +1946,8 @@
                     "tag": "UnitPrice"
                   },
                   "aquantity": {
-                    "decimalMantissa": 5,
-                    "decimalPlaces": 0,
+                    "decimalMantissa": 500,
+                    "decimalPlaces": 2,
                     "floatingPoint": 5
                   },
                   "astyle": {
@@ -2128,8 +2128,8 @@
                   "tag": "UnitPrice"
                 },
                 "aquantity": {
-                  "decimalMantissa": 5,
-                  "decimalPlaces": 0,
+                  "decimalMantissa": 500,
+                  "decimalPlaces": 2,
                   "floatingPoint": 5
                 },
                 "astyle": {
@@ -2835,8 +2835,8 @@
                   "tag": "UnitPrice"
                 },
                 "aquantity": {
-                  "decimalMantissa": 5,
-                  "decimalPlaces": 0,
+                  "decimalMantissa": 500,
+                  "decimalPlaces": 2,
                   "floatingPoint": 5
                 },
                 "astyle": {
@@ -3059,8 +3059,8 @@
                 "tag": "UnitPrice"
               },
               "aquantity": {
-                "decimalMantissa": 5,
-                "decimalPlaces": 0,
+                "decimalMantissa": 500,
+                "decimalPlaces": 2,
                 "floatingPoint": 5
               },
               "astyle": {
@@ -3194,8 +3194,8 @@
             "tag": "UnitPrice"
           },
           "aquantity": {
-            "decimalMantissa": -5,
-            "decimalPlaces": 0,
+            "decimalMantissa": -500,
+            "decimalPlaces": 2,
             "floatingPoint": -5
           },
           "astyle": {
@@ -3450,8 +3450,8 @@
           "tag": "UnitPrice"
         },
         "aquantity": {
-          "decimalMantissa": -5,
-          "decimalPlaces": 0,
+          "decimalMantissa": -500,
+          "decimalPlaces": 2,
           "floatingPoint": -5
         },
         "astyle": {

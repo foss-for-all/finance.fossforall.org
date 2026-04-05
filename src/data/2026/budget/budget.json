@@ -2281,7 +2281,29 @@
     {
       "prrAmounts": [
         [
-          null,
+          [
+            {
+              "acommodity": "KRW",
+              "aprice": null,
+              "aquantity": {
+                "decimalMantissa": 46000,
+                "decimalPlaces": 0,
+                "floatingPoint": 46000
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 0
+              }
+            }
+          ],
           [
             {
               "acommodity": "KRW",
@@ -2308,7 +2330,29 @@
         ]
       ],
       "prrAverage": [
-        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 46000,
+              "decimalPlaces": 0,
+              "floatingPoint": 46000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ],
         [
           {
             "acommodity": "KRW",
@@ -2335,7 +2379,29 @@
       ],
       "prrName": "지출:운영비:복리후생비",
       "prrTotal": [
-        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 46000,
+              "decimalPlaces": 0,
+              "floatingPoint": 46000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ],
         [
           {
             "acommodity": "KRW",
@@ -2662,29 +2728,7 @@
     {
       "prrAmounts": [
         [
-          [
-            {
-              "acommodity": "KRW",
-              "aprice": null,
-              "aquantity": {
-                "decimalMantissa": 46000,
-                "decimalPlaces": 0,
-                "floatingPoint": 46000
-              },
-              "astyle": {
-                "ascommodityside": "R",
-                "ascommodityspaced": true,
-                "asdecimalpoint": ".",
-                "asdigitgroups": [
-                  ",",
-                  [
-                    3
-                  ]
-                ],
-                "asprecision": 0
-              }
-            }
-          ],
+          null,
           [
             {
               "acommodity": "KRW",
@@ -2711,29 +2755,7 @@
         ]
       ],
       "prrAverage": [
-        [
-          {
-            "acommodity": "KRW",
-            "aprice": null,
-            "aquantity": {
-              "decimalMantissa": 46000,
-              "decimalPlaces": 0,
-              "floatingPoint": 46000
-            },
-            "astyle": {
-              "ascommodityside": "R",
-              "ascommodityspaced": true,
-              "asdecimalpoint": ".",
-              "asdigitgroups": [
-                ",",
-                [
-                  3
-                ]
-              ],
-              "asprecision": 0
-            }
-          }
-        ],
+        null,
         [
           {
             "acommodity": "KRW",
@@ -2760,29 +2782,7 @@
       ],
       "prrName": "지출:운영비:업무추진비",
       "prrTotal": [
-        [
-          {
-            "acommodity": "KRW",
-            "aprice": null,
-            "aquantity": {
-              "decimalMantissa": 46000,
-              "decimalPlaces": 0,
-              "floatingPoint": 46000
-            },
-            "astyle": {
-              "ascommodityside": "R",
-              "ascommodityspaced": true,
-              "asdecimalpoint": ".",
-              "asdigitgroups": [
-                ",",
-                [
-                  3
-                ]
-              ],
-              "asprecision": 0
-            }
-          }
-        ],
+        null,
         [
           {
             "acommodity": "KRW",

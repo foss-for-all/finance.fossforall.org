@@ -35,9 +35,9 @@
                   "acommodity": "KRW",
                   "aprice": null,
                   "aquantity": {
-                    "decimalMantissa": 2666712,
+                    "decimalMantissa": 2667363,
                     "decimalPlaces": 0,
-                    "floatingPoint": 2666712
+                    "floatingPoint": 2667363
                   },
                   "astyle": {
                     "ascommodityside": "R",
@@ -139,6 +139,94 @@
                     ],
                     "asprecision": 2
                   }
+                },
+                {
+                  "acommodity": "USD",
+                  "aprice": {
+                    "contents": {
+                      "acommodity": "KRW",
+                      "aprice": null,
+                      "aquantity": {
+                        "decimalMantissa": 14977272727273,
+                        "decimalPlaces": 10,
+                        "floatingPoint": 1497.7272727273
+                      },
+                      "astyle": {
+                        "ascommodityside": "R",
+                        "ascommodityspaced": true,
+                        "asdecimalpoint": ".",
+                        "asdigitgroups": [
+                          ",",
+                          [
+                            3
+                          ]
+                        ],
+                        "asprecision": 10
+                      }
+                    },
+                    "tag": "UnitPrice"
+                  },
+                  "aquantity": {
+                    "decimalMantissa": 88,
+                    "decimalPlaces": 2,
+                    "floatingPoint": 0.88
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 2
+                  }
+                },
+                {
+                  "acommodity": "USD",
+                  "aprice": {
+                    "contents": {
+                      "acommodity": "KRW",
+                      "aprice": null,
+                      "aquantity": {
+                        "decimalMantissa": 1530,
+                        "decimalPlaces": 0,
+                        "floatingPoint": 1530
+                      },
+                      "astyle": {
+                        "ascommodityside": "R",
+                        "ascommodityspaced": true,
+                        "asdecimalpoint": ".",
+                        "asdigitgroups": [
+                          ",",
+                          [
+                            3
+                          ]
+                        ],
+                        "asprecision": 0
+                      }
+                    },
+                    "tag": "UnitPrice"
+                  },
+                  "aquantity": {
+                    "decimalMantissa": 90,
+                    "decimalPlaces": 2,
+                    "floatingPoint": 0.9
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 2
+                  }
                 }
               ]
             ],
@@ -147,9 +235,9 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 2666712,
+                  "decimalMantissa": 2667363,
                   "decimalPlaces": 0,
-                  "floatingPoint": 2666712
+                  "floatingPoint": 2667363
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -238,6 +326,94 @@
                   "decimalMantissa": 36535,
                   "decimalPlaces": 1,
                   "floatingPoint": 3653.5
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 2
+                }
+              },
+              {
+                "acommodity": "USD",
+                "aprice": {
+                  "contents": {
+                    "acommodity": "KRW",
+                    "aprice": null,
+                    "aquantity": {
+                      "decimalMantissa": 14977272727273,
+                      "decimalPlaces": 10,
+                      "floatingPoint": 1497.7272727273
+                    },
+                    "astyle": {
+                      "ascommodityside": "R",
+                      "ascommodityspaced": true,
+                      "asdecimalpoint": ".",
+                      "asdigitgroups": [
+                        ",",
+                        [
+                          3
+                        ]
+                      ],
+                      "asprecision": 10
+                    }
+                  },
+                  "tag": "UnitPrice"
+                },
+                "aquantity": {
+                  "decimalMantissa": 88,
+                  "decimalPlaces": 2,
+                  "floatingPoint": 0.88
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 2
+                }
+              },
+              {
+                "acommodity": "USD",
+                "aprice": {
+                  "contents": {
+                    "acommodity": "KRW",
+                    "aprice": null,
+                    "aquantity": {
+                      "decimalMantissa": 1530,
+                      "decimalPlaces": 0,
+                      "floatingPoint": 1530
+                    },
+                    "astyle": {
+                      "ascommodityside": "R",
+                      "ascommodityspaced": true,
+                      "asdecimalpoint": ".",
+                      "asdigitgroups": [
+                        ",",
+                        [
+                          3
+                        ]
+                      ],
+                      "asprecision": 0
+                    }
+                  },
+                  "tag": "UnitPrice"
+                },
+                "aquantity": {
+                  "decimalMantissa": 9,
+                  "decimalPlaces": 1,
+                  "floatingPoint": 0.9
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -259,9 +435,9 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 2666712,
+                  "decimalMantissa": 2667363,
                   "decimalPlaces": 0,
-                  "floatingPoint": 2666712
+                  "floatingPoint": 2667363
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -363,6 +539,94 @@
                   ],
                   "asprecision": 2
                 }
+              },
+              {
+                "acommodity": "USD",
+                "aprice": {
+                  "contents": {
+                    "acommodity": "KRW",
+                    "aprice": null,
+                    "aquantity": {
+                      "decimalMantissa": 14977272727273,
+                      "decimalPlaces": 10,
+                      "floatingPoint": 1497.7272727273
+                    },
+                    "astyle": {
+                      "ascommodityside": "R",
+                      "ascommodityspaced": true,
+                      "asdecimalpoint": ".",
+                      "asdigitgroups": [
+                        ",",
+                        [
+                          3
+                        ]
+                      ],
+                      "asprecision": 10
+                    }
+                  },
+                  "tag": "UnitPrice"
+                },
+                "aquantity": {
+                  "decimalMantissa": 88,
+                  "decimalPlaces": 2,
+                  "floatingPoint": 0.88
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 2
+                }
+              },
+              {
+                "acommodity": "USD",
+                "aprice": {
+                  "contents": {
+                    "acommodity": "KRW",
+                    "aprice": null,
+                    "aquantity": {
+                      "decimalMantissa": 1530,
+                      "decimalPlaces": 0,
+                      "floatingPoint": 1530
+                    },
+                    "astyle": {
+                      "ascommodityside": "R",
+                      "ascommodityspaced": true,
+                      "asdecimalpoint": ".",
+                      "asdigitgroups": [
+                        ",",
+                        [
+                          3
+                        ]
+                      ],
+                      "asprecision": 0
+                    }
+                  },
+                  "tag": "UnitPrice"
+                },
+                "aquantity": {
+                  "decimalMantissa": 90,
+                  "decimalPlaces": 2,
+                  "floatingPoint": 0.9
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 2
+                }
               }
             ]
           },
@@ -373,9 +637,9 @@
                   "acommodity": "KRW",
                   "aprice": null,
                   "aquantity": {
-                    "decimalMantissa": 2666712,
+                    "decimalMantissa": 2667363,
                     "decimalPlaces": 0,
-                    "floatingPoint": 2666712
+                    "floatingPoint": 2667363
                   },
                   "astyle": {
                     "ascommodityside": "R",
@@ -477,6 +741,94 @@
                     ],
                     "asprecision": 2
                   }
+                },
+                {
+                  "acommodity": "USD",
+                  "aprice": {
+                    "contents": {
+                      "acommodity": "KRW",
+                      "aprice": null,
+                      "aquantity": {
+                        "decimalMantissa": 14977272727273,
+                        "decimalPlaces": 10,
+                        "floatingPoint": 1497.7272727273
+                      },
+                      "astyle": {
+                        "ascommodityside": "R",
+                        "ascommodityspaced": true,
+                        "asdecimalpoint": ".",
+                        "asdigitgroups": [
+                          ",",
+                          [
+                            3
+                          ]
+                        ],
+                        "asprecision": 10
+                      }
+                    },
+                    "tag": "UnitPrice"
+                  },
+                  "aquantity": {
+                    "decimalMantissa": 88,
+                    "decimalPlaces": 2,
+                    "floatingPoint": 0.88
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 2
+                  }
+                },
+                {
+                  "acommodity": "USD",
+                  "aprice": {
+                    "contents": {
+                      "acommodity": "KRW",
+                      "aprice": null,
+                      "aquantity": {
+                        "decimalMantissa": 1530,
+                        "decimalPlaces": 0,
+                        "floatingPoint": 1530
+                      },
+                      "astyle": {
+                        "ascommodityside": "R",
+                        "ascommodityspaced": true,
+                        "asdecimalpoint": ".",
+                        "asdigitgroups": [
+                          ",",
+                          [
+                            3
+                          ]
+                        ],
+                        "asprecision": 0
+                      }
+                    },
+                    "tag": "UnitPrice"
+                  },
+                  "aquantity": {
+                    "decimalMantissa": 90,
+                    "decimalPlaces": 2,
+                    "floatingPoint": 0.9
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 2
+                  }
                 }
               ]
             ],
@@ -485,9 +837,9 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 2666712,
+                  "decimalMantissa": 2667363,
                   "decimalPlaces": 0,
-                  "floatingPoint": 2666712
+                  "floatingPoint": 2667363
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -576,6 +928,94 @@
                   "decimalMantissa": 36535,
                   "decimalPlaces": 1,
                   "floatingPoint": 3653.5
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 2
+                }
+              },
+              {
+                "acommodity": "USD",
+                "aprice": {
+                  "contents": {
+                    "acommodity": "KRW",
+                    "aprice": null,
+                    "aquantity": {
+                      "decimalMantissa": 14977272727273,
+                      "decimalPlaces": 10,
+                      "floatingPoint": 1497.7272727273
+                    },
+                    "astyle": {
+                      "ascommodityside": "R",
+                      "ascommodityspaced": true,
+                      "asdecimalpoint": ".",
+                      "asdigitgroups": [
+                        ",",
+                        [
+                          3
+                        ]
+                      ],
+                      "asprecision": 10
+                    }
+                  },
+                  "tag": "UnitPrice"
+                },
+                "aquantity": {
+                  "decimalMantissa": 88,
+                  "decimalPlaces": 2,
+                  "floatingPoint": 0.88
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 2
+                }
+              },
+              {
+                "acommodity": "USD",
+                "aprice": {
+                  "contents": {
+                    "acommodity": "KRW",
+                    "aprice": null,
+                    "aquantity": {
+                      "decimalMantissa": 1530,
+                      "decimalPlaces": 0,
+                      "floatingPoint": 1530
+                    },
+                    "astyle": {
+                      "ascommodityside": "R",
+                      "ascommodityspaced": true,
+                      "asdecimalpoint": ".",
+                      "asdigitgroups": [
+                        ",",
+                        [
+                          3
+                        ]
+                      ],
+                      "asprecision": 0
+                    }
+                  },
+                  "tag": "UnitPrice"
+                },
+                "aquantity": {
+                  "decimalMantissa": 9,
+                  "decimalPlaces": 1,
+                  "floatingPoint": 0.9
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -597,9 +1037,9 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 2666712,
+                  "decimalMantissa": 2667363,
                   "decimalPlaces": 0,
-                  "floatingPoint": 2666712
+                  "floatingPoint": 2667363
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -701,6 +1141,94 @@
                   ],
                   "asprecision": 2
                 }
+              },
+              {
+                "acommodity": "USD",
+                "aprice": {
+                  "contents": {
+                    "acommodity": "KRW",
+                    "aprice": null,
+                    "aquantity": {
+                      "decimalMantissa": 14977272727273,
+                      "decimalPlaces": 10,
+                      "floatingPoint": 1497.7272727273
+                    },
+                    "astyle": {
+                      "ascommodityside": "R",
+                      "ascommodityspaced": true,
+                      "asdecimalpoint": ".",
+                      "asdigitgroups": [
+                        ",",
+                        [
+                          3
+                        ]
+                      ],
+                      "asprecision": 10
+                    }
+                  },
+                  "tag": "UnitPrice"
+                },
+                "aquantity": {
+                  "decimalMantissa": 88,
+                  "decimalPlaces": 2,
+                  "floatingPoint": 0.88
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 2
+                }
+              },
+              {
+                "acommodity": "USD",
+                "aprice": {
+                  "contents": {
+                    "acommodity": "KRW",
+                    "aprice": null,
+                    "aquantity": {
+                      "decimalMantissa": 1530,
+                      "decimalPlaces": 0,
+                      "floatingPoint": 1530
+                    },
+                    "astyle": {
+                      "ascommodityside": "R",
+                      "ascommodityspaced": true,
+                      "asdecimalpoint": ".",
+                      "asdigitgroups": [
+                        ",",
+                        [
+                          3
+                        ]
+                      ],
+                      "asprecision": 0
+                    }
+                  },
+                  "tag": "UnitPrice"
+                },
+                "aquantity": {
+                  "decimalMantissa": 90,
+                  "decimalPlaces": 2,
+                  "floatingPoint": 0.9
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 2
+                }
               }
             ]
           },
@@ -711,9 +1239,9 @@
                   "acommodity": "KRW",
                   "aprice": null,
                   "aquantity": {
-                    "decimalMantissa": 2666712,
+                    "decimalMantissa": 2667363,
                     "decimalPlaces": 0,
-                    "floatingPoint": 2666712
+                    "floatingPoint": 2667363
                   },
                   "astyle": {
                     "ascommodityside": "R",
@@ -815,6 +1343,94 @@
                     ],
                     "asprecision": 2
                   }
+                },
+                {
+                  "acommodity": "USD",
+                  "aprice": {
+                    "contents": {
+                      "acommodity": "KRW",
+                      "aprice": null,
+                      "aquantity": {
+                        "decimalMantissa": 14977272727273,
+                        "decimalPlaces": 10,
+                        "floatingPoint": 1497.7272727273
+                      },
+                      "astyle": {
+                        "ascommodityside": "R",
+                        "ascommodityspaced": true,
+                        "asdecimalpoint": ".",
+                        "asdigitgroups": [
+                          ",",
+                          [
+                            3
+                          ]
+                        ],
+                        "asprecision": 10
+                      }
+                    },
+                    "tag": "UnitPrice"
+                  },
+                  "aquantity": {
+                    "decimalMantissa": 88,
+                    "decimalPlaces": 2,
+                    "floatingPoint": 0.88
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 2
+                  }
+                },
+                {
+                  "acommodity": "USD",
+                  "aprice": {
+                    "contents": {
+                      "acommodity": "KRW",
+                      "aprice": null,
+                      "aquantity": {
+                        "decimalMantissa": 1530,
+                        "decimalPlaces": 0,
+                        "floatingPoint": 1530
+                      },
+                      "astyle": {
+                        "ascommodityside": "R",
+                        "ascommodityspaced": true,
+                        "asdecimalpoint": ".",
+                        "asdigitgroups": [
+                          ",",
+                          [
+                            3
+                          ]
+                        ],
+                        "asprecision": 0
+                      }
+                    },
+                    "tag": "UnitPrice"
+                  },
+                  "aquantity": {
+                    "decimalMantissa": 90,
+                    "decimalPlaces": 2,
+                    "floatingPoint": 0.9
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 2
+                  }
                 }
               ]
             ],
@@ -823,9 +1439,9 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 2666712,
+                  "decimalMantissa": 2667363,
                   "decimalPlaces": 0,
-                  "floatingPoint": 2666712
+                  "floatingPoint": 2667363
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -914,6 +1530,94 @@
                   "decimalMantissa": 36535,
                   "decimalPlaces": 1,
                   "floatingPoint": 3653.5
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 2
+                }
+              },
+              {
+                "acommodity": "USD",
+                "aprice": {
+                  "contents": {
+                    "acommodity": "KRW",
+                    "aprice": null,
+                    "aquantity": {
+                      "decimalMantissa": 14977272727273,
+                      "decimalPlaces": 10,
+                      "floatingPoint": 1497.7272727273
+                    },
+                    "astyle": {
+                      "ascommodityside": "R",
+                      "ascommodityspaced": true,
+                      "asdecimalpoint": ".",
+                      "asdigitgroups": [
+                        ",",
+                        [
+                          3
+                        ]
+                      ],
+                      "asprecision": 10
+                    }
+                  },
+                  "tag": "UnitPrice"
+                },
+                "aquantity": {
+                  "decimalMantissa": 88,
+                  "decimalPlaces": 2,
+                  "floatingPoint": 0.88
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 2
+                }
+              },
+              {
+                "acommodity": "USD",
+                "aprice": {
+                  "contents": {
+                    "acommodity": "KRW",
+                    "aprice": null,
+                    "aquantity": {
+                      "decimalMantissa": 1530,
+                      "decimalPlaces": 0,
+                      "floatingPoint": 1530
+                    },
+                    "astyle": {
+                      "ascommodityside": "R",
+                      "ascommodityspaced": true,
+                      "asdecimalpoint": ".",
+                      "asdigitgroups": [
+                        ",",
+                        [
+                          3
+                        ]
+                      ],
+                      "asprecision": 0
+                    }
+                  },
+                  "tag": "UnitPrice"
+                },
+                "aquantity": {
+                  "decimalMantissa": 9,
+                  "decimalPlaces": 1,
+                  "floatingPoint": 0.9
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -935,9 +1639,9 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 2666712,
+                  "decimalMantissa": 2667363,
                   "decimalPlaces": 0,
-                  "floatingPoint": 2666712
+                  "floatingPoint": 2667363
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -1039,6 +1743,94 @@
                   ],
                   "asprecision": 2
                 }
+              },
+              {
+                "acommodity": "USD",
+                "aprice": {
+                  "contents": {
+                    "acommodity": "KRW",
+                    "aprice": null,
+                    "aquantity": {
+                      "decimalMantissa": 14977272727273,
+                      "decimalPlaces": 10,
+                      "floatingPoint": 1497.7272727273
+                    },
+                    "astyle": {
+                      "ascommodityside": "R",
+                      "ascommodityspaced": true,
+                      "asdecimalpoint": ".",
+                      "asdigitgroups": [
+                        ",",
+                        [
+                          3
+                        ]
+                      ],
+                      "asprecision": 10
+                    }
+                  },
+                  "tag": "UnitPrice"
+                },
+                "aquantity": {
+                  "decimalMantissa": 88,
+                  "decimalPlaces": 2,
+                  "floatingPoint": 0.88
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 2
+                }
+              },
+              {
+                "acommodity": "USD",
+                "aprice": {
+                  "contents": {
+                    "acommodity": "KRW",
+                    "aprice": null,
+                    "aquantity": {
+                      "decimalMantissa": 1530,
+                      "decimalPlaces": 0,
+                      "floatingPoint": 1530
+                    },
+                    "astyle": {
+                      "ascommodityside": "R",
+                      "ascommodityspaced": true,
+                      "asdecimalpoint": ".",
+                      "asdigitgroups": [
+                        ",",
+                        [
+                          3
+                        ]
+                      ],
+                      "asprecision": 0
+                    }
+                  },
+                  "tag": "UnitPrice"
+                },
+                "aquantity": {
+                  "decimalMantissa": 90,
+                  "decimalPlaces": 2,
+                  "floatingPoint": 0.9
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 2
+                }
               }
             ]
           },
@@ -1049,9 +1841,9 @@
                   "acommodity": "KRW",
                   "aprice": null,
                   "aquantity": {
-                    "decimalMantissa": 1581712,
+                    "decimalMantissa": 1582363,
                     "decimalPlaces": 0,
-                    "floatingPoint": 1581712
+                    "floatingPoint": 1582363
                   },
                   "astyle": {
                     "ascommodityside": "R",
@@ -1153,6 +1945,94 @@
                     ],
                     "asprecision": 2
                   }
+                },
+                {
+                  "acommodity": "USD",
+                  "aprice": {
+                    "contents": {
+                      "acommodity": "KRW",
+                      "aprice": null,
+                      "aquantity": {
+                        "decimalMantissa": 14977272727273,
+                        "decimalPlaces": 10,
+                        "floatingPoint": 1497.7272727273
+                      },
+                      "astyle": {
+                        "ascommodityside": "R",
+                        "ascommodityspaced": true,
+                        "asdecimalpoint": ".",
+                        "asdigitgroups": [
+                          ",",
+                          [
+                            3
+                          ]
+                        ],
+                        "asprecision": 10
+                      }
+                    },
+                    "tag": "UnitPrice"
+                  },
+                  "aquantity": {
+                    "decimalMantissa": 88,
+                    "decimalPlaces": 2,
+                    "floatingPoint": 0.88
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 2
+                  }
+                },
+                {
+                  "acommodity": "USD",
+                  "aprice": {
+                    "contents": {
+                      "acommodity": "KRW",
+                      "aprice": null,
+                      "aquantity": {
+                        "decimalMantissa": 1530,
+                        "decimalPlaces": 0,
+                        "floatingPoint": 1530
+                      },
+                      "astyle": {
+                        "ascommodityside": "R",
+                        "ascommodityspaced": true,
+                        "asdecimalpoint": ".",
+                        "asdigitgroups": [
+                          ",",
+                          [
+                            3
+                          ]
+                        ],
+                        "asprecision": 0
+                      }
+                    },
+                    "tag": "UnitPrice"
+                  },
+                  "aquantity": {
+                    "decimalMantissa": 90,
+                    "decimalPlaces": 2,
+                    "floatingPoint": 0.9
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 2
+                  }
                 }
               ]
             ],
@@ -1161,9 +2041,9 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 1581712,
+                  "decimalMantissa": 1582363,
                   "decimalPlaces": 0,
-                  "floatingPoint": 1581712
+                  "floatingPoint": 1582363
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -1252,6 +2132,94 @@
                   "decimalMantissa": 36535,
                   "decimalPlaces": 1,
                   "floatingPoint": 3653.5
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 2
+                }
+              },
+              {
+                "acommodity": "USD",
+                "aprice": {
+                  "contents": {
+                    "acommodity": "KRW",
+                    "aprice": null,
+                    "aquantity": {
+                      "decimalMantissa": 14977272727273,
+                      "decimalPlaces": 10,
+                      "floatingPoint": 1497.7272727273
+                    },
+                    "astyle": {
+                      "ascommodityside": "R",
+                      "ascommodityspaced": true,
+                      "asdecimalpoint": ".",
+                      "asdigitgroups": [
+                        ",",
+                        [
+                          3
+                        ]
+                      ],
+                      "asprecision": 10
+                    }
+                  },
+                  "tag": "UnitPrice"
+                },
+                "aquantity": {
+                  "decimalMantissa": 88,
+                  "decimalPlaces": 2,
+                  "floatingPoint": 0.88
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 2
+                }
+              },
+              {
+                "acommodity": "USD",
+                "aprice": {
+                  "contents": {
+                    "acommodity": "KRW",
+                    "aprice": null,
+                    "aquantity": {
+                      "decimalMantissa": 1530,
+                      "decimalPlaces": 0,
+                      "floatingPoint": 1530
+                    },
+                    "astyle": {
+                      "ascommodityside": "R",
+                      "ascommodityspaced": true,
+                      "asdecimalpoint": ".",
+                      "asdigitgroups": [
+                        ",",
+                        [
+                          3
+                        ]
+                      ],
+                      "asprecision": 0
+                    }
+                  },
+                  "tag": "UnitPrice"
+                },
+                "aquantity": {
+                  "decimalMantissa": 9,
+                  "decimalPlaces": 1,
+                  "floatingPoint": 0.9
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -1273,9 +2241,9 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 1581712,
+                  "decimalMantissa": 1582363,
                   "decimalPlaces": 0,
-                  "floatingPoint": 1581712
+                  "floatingPoint": 1582363
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -1377,6 +2345,94 @@
                   ],
                   "asprecision": 2
                 }
+              },
+              {
+                "acommodity": "USD",
+                "aprice": {
+                  "contents": {
+                    "acommodity": "KRW",
+                    "aprice": null,
+                    "aquantity": {
+                      "decimalMantissa": 14977272727273,
+                      "decimalPlaces": 10,
+                      "floatingPoint": 1497.7272727273
+                    },
+                    "astyle": {
+                      "ascommodityside": "R",
+                      "ascommodityspaced": true,
+                      "asdecimalpoint": ".",
+                      "asdigitgroups": [
+                        ",",
+                        [
+                          3
+                        ]
+                      ],
+                      "asprecision": 10
+                    }
+                  },
+                  "tag": "UnitPrice"
+                },
+                "aquantity": {
+                  "decimalMantissa": 88,
+                  "decimalPlaces": 2,
+                  "floatingPoint": 0.88
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 2
+                }
+              },
+              {
+                "acommodity": "USD",
+                "aprice": {
+                  "contents": {
+                    "acommodity": "KRW",
+                    "aprice": null,
+                    "aquantity": {
+                      "decimalMantissa": 1530,
+                      "decimalPlaces": 0,
+                      "floatingPoint": 1530
+                    },
+                    "astyle": {
+                      "ascommodityside": "R",
+                      "ascommodityspaced": true,
+                      "asdecimalpoint": ".",
+                      "asdigitgroups": [
+                        ",",
+                        [
+                          3
+                        ]
+                      ],
+                      "asprecision": 0
+                    }
+                  },
+                  "tag": "UnitPrice"
+                },
+                "aquantity": {
+                  "decimalMantissa": 90,
+                  "decimalPlaces": 2,
+                  "floatingPoint": 0.9
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 2
+                }
               }
             ]
           },
@@ -1387,9 +2443,9 @@
                   "acommodity": "KRW",
                   "aprice": null,
                   "aquantity": {
-                    "decimalMantissa": 1581712,
+                    "decimalMantissa": 1582363,
                     "decimalPlaces": 0,
-                    "floatingPoint": 1581712
+                    "floatingPoint": 1582363
                   },
                   "astyle": {
                     "ascommodityside": "R",
@@ -1411,9 +2467,9 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 1581712,
+                  "decimalMantissa": 1582363,
                   "decimalPlaces": 0,
-                  "floatingPoint": 1581712
+                  "floatingPoint": 1582363
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -1435,9 +2491,9 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 1581712,
+                  "decimalMantissa": 1582363,
                   "decimalPlaces": 0,
-                  "floatingPoint": 1581712
+                  "floatingPoint": 1582363
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -1544,6 +2600,94 @@
                     ],
                     "asprecision": 2
                   }
+                },
+                {
+                  "acommodity": "USD",
+                  "aprice": {
+                    "contents": {
+                      "acommodity": "KRW",
+                      "aprice": null,
+                      "aquantity": {
+                        "decimalMantissa": 14977272727273,
+                        "decimalPlaces": 10,
+                        "floatingPoint": 1497.7272727273
+                      },
+                      "astyle": {
+                        "ascommodityside": "R",
+                        "ascommodityspaced": true,
+                        "asdecimalpoint": ".",
+                        "asdigitgroups": [
+                          ",",
+                          [
+                            3
+                          ]
+                        ],
+                        "asprecision": 10
+                      }
+                    },
+                    "tag": "UnitPrice"
+                  },
+                  "aquantity": {
+                    "decimalMantissa": 88,
+                    "decimalPlaces": 2,
+                    "floatingPoint": 0.88
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 2
+                  }
+                },
+                {
+                  "acommodity": "USD",
+                  "aprice": {
+                    "contents": {
+                      "acommodity": "KRW",
+                      "aprice": null,
+                      "aquantity": {
+                        "decimalMantissa": 1530,
+                        "decimalPlaces": 0,
+                        "floatingPoint": 1530
+                      },
+                      "astyle": {
+                        "ascommodityside": "R",
+                        "ascommodityspaced": true,
+                        "asdecimalpoint": ".",
+                        "asdigitgroups": [
+                          ",",
+                          [
+                            3
+                          ]
+                        ],
+                        "asprecision": 0
+                      }
+                    },
+                    "tag": "UnitPrice"
+                  },
+                  "aquantity": {
+                    "decimalMantissa": 90,
+                    "decimalPlaces": 2,
+                    "floatingPoint": 0.9
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 2
+                  }
                 }
               ]
             ],
@@ -1622,6 +2766,94 @@
                   "decimalMantissa": 36535,
                   "decimalPlaces": 1,
                   "floatingPoint": 3653.5
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 2
+                }
+              },
+              {
+                "acommodity": "USD",
+                "aprice": {
+                  "contents": {
+                    "acommodity": "KRW",
+                    "aprice": null,
+                    "aquantity": {
+                      "decimalMantissa": 14977272727273,
+                      "decimalPlaces": 10,
+                      "floatingPoint": 1497.7272727273
+                    },
+                    "astyle": {
+                      "ascommodityside": "R",
+                      "ascommodityspaced": true,
+                      "asdecimalpoint": ".",
+                      "asdigitgroups": [
+                        ",",
+                        [
+                          3
+                        ]
+                      ],
+                      "asprecision": 10
+                    }
+                  },
+                  "tag": "UnitPrice"
+                },
+                "aquantity": {
+                  "decimalMantissa": 88,
+                  "decimalPlaces": 2,
+                  "floatingPoint": 0.88
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 2
+                }
+              },
+              {
+                "acommodity": "USD",
+                "aprice": {
+                  "contents": {
+                    "acommodity": "KRW",
+                    "aprice": null,
+                    "aquantity": {
+                      "decimalMantissa": 1530,
+                      "decimalPlaces": 0,
+                      "floatingPoint": 1530
+                    },
+                    "astyle": {
+                      "ascommodityside": "R",
+                      "ascommodityspaced": true,
+                      "asdecimalpoint": ".",
+                      "asdigitgroups": [
+                        ",",
+                        [
+                          3
+                        ]
+                      ],
+                      "asprecision": 0
+                    }
+                  },
+                  "tag": "UnitPrice"
+                },
+                "aquantity": {
+                  "decimalMantissa": 9,
+                  "decimalPlaces": 1,
+                  "floatingPoint": 0.9
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -1713,6 +2945,94 @@
                   "decimalMantissa": 365350,
                   "decimalPlaces": 2,
                   "floatingPoint": 3653.5
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 2
+                }
+              },
+              {
+                "acommodity": "USD",
+                "aprice": {
+                  "contents": {
+                    "acommodity": "KRW",
+                    "aprice": null,
+                    "aquantity": {
+                      "decimalMantissa": 14977272727273,
+                      "decimalPlaces": 10,
+                      "floatingPoint": 1497.7272727273
+                    },
+                    "astyle": {
+                      "ascommodityside": "R",
+                      "ascommodityspaced": true,
+                      "asdecimalpoint": ".",
+                      "asdigitgroups": [
+                        ",",
+                        [
+                          3
+                        ]
+                      ],
+                      "asprecision": 10
+                    }
+                  },
+                  "tag": "UnitPrice"
+                },
+                "aquantity": {
+                  "decimalMantissa": 88,
+                  "decimalPlaces": 2,
+                  "floatingPoint": 0.88
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 2
+                }
+              },
+              {
+                "acommodity": "USD",
+                "aprice": {
+                  "contents": {
+                    "acommodity": "KRW",
+                    "aprice": null,
+                    "aquantity": {
+                      "decimalMantissa": 1530,
+                      "decimalPlaces": 0,
+                      "floatingPoint": 1530
+                    },
+                    "astyle": {
+                      "ascommodityside": "R",
+                      "ascommodityspaced": true,
+                      "asdecimalpoint": ".",
+                      "asdigitgroups": [
+                        ",",
+                        [
+                          3
+                        ]
+                      ],
+                      "asprecision": 0
+                    }
+                  },
+                  "tag": "UnitPrice"
+                },
+                "aquantity": {
+                  "decimalMantissa": 90,
+                  "decimalPlaces": 2,
+                  "floatingPoint": 0.9
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -2033,9 +3353,9 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 2666712,
+                  "decimalMantissa": 2667363,
                   "decimalPlaces": 0,
-                  "floatingPoint": 2666712
+                  "floatingPoint": 2667363
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -2137,6 +3457,94 @@
                   ],
                   "asprecision": 2
                 }
+              },
+              {
+                "acommodity": "USD",
+                "aprice": {
+                  "contents": {
+                    "acommodity": "KRW",
+                    "aprice": null,
+                    "aquantity": {
+                      "decimalMantissa": 14977272727273,
+                      "decimalPlaces": 10,
+                      "floatingPoint": 1497.7272727273
+                    },
+                    "astyle": {
+                      "ascommodityside": "R",
+                      "ascommodityspaced": true,
+                      "asdecimalpoint": ".",
+                      "asdigitgroups": [
+                        ",",
+                        [
+                          3
+                        ]
+                      ],
+                      "asprecision": 10
+                    }
+                  },
+                  "tag": "UnitPrice"
+                },
+                "aquantity": {
+                  "decimalMantissa": 88,
+                  "decimalPlaces": 2,
+                  "floatingPoint": 0.88
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 2
+                }
+              },
+              {
+                "acommodity": "USD",
+                "aprice": {
+                  "contents": {
+                    "acommodity": "KRW",
+                    "aprice": null,
+                    "aquantity": {
+                      "decimalMantissa": 1530,
+                      "decimalPlaces": 0,
+                      "floatingPoint": 1530
+                    },
+                    "astyle": {
+                      "ascommodityside": "R",
+                      "ascommodityspaced": true,
+                      "asdecimalpoint": ".",
+                      "asdigitgroups": [
+                        ",",
+                        [
+                          3
+                        ]
+                      ],
+                      "asprecision": 0
+                    }
+                  },
+                  "tag": "UnitPrice"
+                },
+                "aquantity": {
+                  "decimalMantissa": 90,
+                  "decimalPlaces": 2,
+                  "floatingPoint": 0.9
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 2
+                }
               }
             ]
           ],
@@ -2145,9 +3553,9 @@
               "acommodity": "KRW",
               "aprice": null,
               "aquantity": {
-                "decimalMantissa": 2666712,
+                "decimalMantissa": 2667363,
                 "decimalPlaces": 0,
-                "floatingPoint": 2666712
+                "floatingPoint": 2667363
               },
               "astyle": {
                 "ascommodityside": "R",
@@ -2249,6 +3657,94 @@
                 ],
                 "asprecision": 2
               }
+            },
+            {
+              "acommodity": "USD",
+              "aprice": {
+                "contents": {
+                  "acommodity": "KRW",
+                  "aprice": null,
+                  "aquantity": {
+                    "decimalMantissa": 14977272727273,
+                    "decimalPlaces": 10,
+                    "floatingPoint": 1497.7272727273
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 10
+                  }
+                },
+                "tag": "UnitPrice"
+              },
+              "aquantity": {
+                "decimalMantissa": 88,
+                "decimalPlaces": 2,
+                "floatingPoint": 0.88
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 2
+              }
+            },
+            {
+              "acommodity": "USD",
+              "aprice": {
+                "contents": {
+                  "acommodity": "KRW",
+                  "aprice": null,
+                  "aquantity": {
+                    "decimalMantissa": 1530,
+                    "decimalPlaces": 0,
+                    "floatingPoint": 1530
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 0
+                  }
+                },
+                "tag": "UnitPrice"
+              },
+              "aquantity": {
+                "decimalMantissa": 9,
+                "decimalPlaces": 1,
+                "floatingPoint": 0.9
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 2
+              }
             }
           ],
           "prrName": [],
@@ -2257,9 +3753,9 @@
               "acommodity": "KRW",
               "aprice": null,
               "aquantity": {
-                "decimalMantissa": 2666712,
+                "decimalMantissa": 2667363,
                 "decimalPlaces": 0,
-                "floatingPoint": 2666712
+                "floatingPoint": 2667363
               },
               "astyle": {
                 "ascommodityside": "R",
@@ -2361,6 +3857,94 @@
                 ],
                 "asprecision": 2
               }
+            },
+            {
+              "acommodity": "USD",
+              "aprice": {
+                "contents": {
+                  "acommodity": "KRW",
+                  "aprice": null,
+                  "aquantity": {
+                    "decimalMantissa": 14977272727273,
+                    "decimalPlaces": 10,
+                    "floatingPoint": 1497.7272727273
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 10
+                  }
+                },
+                "tag": "UnitPrice"
+              },
+              "aquantity": {
+                "decimalMantissa": 88,
+                "decimalPlaces": 2,
+                "floatingPoint": 0.88
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 2
+              }
+            },
+            {
+              "acommodity": "USD",
+              "aprice": {
+                "contents": {
+                  "acommodity": "KRW",
+                  "aprice": null,
+                  "aquantity": {
+                    "decimalMantissa": 1530,
+                    "decimalPlaces": 0,
+                    "floatingPoint": 1530
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 0
+                  }
+                },
+                "tag": "UnitPrice"
+              },
+              "aquantity": {
+                "decimalMantissa": 90,
+                "decimalPlaces": 2,
+                "floatingPoint": 0.9
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 2
+              }
             }
           ]
         }
@@ -2415,9 +3999,9 @@
                   "acommodity": "KRW",
                   "aprice": null,
                   "aquantity": {
-                    "decimalMantissa": 2645706360,
+                    "decimalMantissa": 2649052360,
                     "decimalPlaces": 3,
-                    "floatingPoint": 2645706.36
+                    "floatingPoint": 2649052.36
                   },
                   "astyle": {
                     "ascommodityside": "R",
@@ -2504,9 +4088,9 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 264570636,
+                  "decimalMantissa": 264905236,
                   "decimalPlaces": 2,
-                  "floatingPoint": 2645706.36
+                  "floatingPoint": 2649052.36
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -2593,9 +4177,9 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 2645706360,
+                  "decimalMantissa": 2649052360,
                   "decimalPlaces": 3,
-                  "floatingPoint": 2645706.36
+                  "floatingPoint": 2649052.36
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -2758,9 +4342,9 @@
                   "acommodity": "KRW",
                   "aprice": null,
                   "aquantity": {
-                    "decimalMantissa": 1645706360,
+                    "decimalMantissa": 1649052360,
                     "decimalPlaces": 3,
-                    "floatingPoint": 1645706.36
+                    "floatingPoint": 1649052.36
                   },
                   "astyle": {
                     "ascommodityside": "R",
@@ -2847,9 +4431,9 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 164570636,
+                  "decimalMantissa": 164905236,
                   "decimalPlaces": 2,
-                  "floatingPoint": 1645706.36
+                  "floatingPoint": 1649052.36
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -2936,9 +4520,9 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 1645706360,
+                  "decimalMantissa": 1649052360,
                   "decimalPlaces": 3,
-                  "floatingPoint": 1645706.36
+                  "floatingPoint": 1649052.36
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -3027,9 +4611,9 @@
                   "acommodity": "KRW",
                   "aprice": null,
                   "aquantity": {
-                    "decimalMantissa": 1645706360,
+                    "decimalMantissa": 1649052360,
                     "decimalPlaces": 3,
-                    "floatingPoint": 1645706.36
+                    "floatingPoint": 1649052.36
                   },
                   "astyle": {
                     "ascommodityside": "R",
@@ -3116,9 +4700,9 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 164570636,
+                  "decimalMantissa": 164905236,
                   "decimalPlaces": 2,
-                  "floatingPoint": 1645706.36
+                  "floatingPoint": 1649052.36
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -3205,9 +4789,9 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 1645706360,
+                  "decimalMantissa": 1649052360,
                   "decimalPlaces": 3,
-                  "floatingPoint": 1645706.36
+                  "floatingPoint": 1649052.36
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -3371,9 +4955,9 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 2645706360,
+                  "decimalMantissa": 2649052360,
                   "decimalPlaces": 3,
-                  "floatingPoint": 2645706.36
+                  "floatingPoint": 2649052.36
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -3460,9 +5044,9 @@
               "acommodity": "KRW",
               "aprice": null,
               "aquantity": {
-                "decimalMantissa": 264570636,
+                "decimalMantissa": 264905236,
                 "decimalPlaces": 2,
-                "floatingPoint": 2645706.36
+                "floatingPoint": 2649052.36
               },
               "astyle": {
                 "ascommodityside": "R",
@@ -3549,9 +5133,9 @@
               "acommodity": "KRW",
               "aprice": null,
               "aquantity": {
-                "decimalMantissa": 2645706360,
+                "decimalMantissa": 2649052360,
                 "decimalPlaces": 3,
-                "floatingPoint": 2645706.36
+                "floatingPoint": 2649052.36
               },
               "astyle": {
                 "ascommodityside": "R",
@@ -3645,9 +5229,9 @@
           "acommodity": "KRW",
           "aprice": null,
           "aquantity": {
-            "decimalMantissa": 21005640,
+            "decimalMantissa": 18310640,
             "decimalPlaces": 3,
-            "floatingPoint": 21005.64
+            "floatingPoint": 18310.64
           },
           "astyle": {
             "ascommodityside": "R",
@@ -3770,6 +5354,94 @@
             ],
             "asprecision": 2
           }
+        },
+        {
+          "acommodity": "USD",
+          "aprice": {
+            "contents": {
+              "acommodity": "KRW",
+              "aprice": null,
+              "aquantity": {
+                "decimalMantissa": 14977272727273,
+                "decimalPlaces": 10,
+                "floatingPoint": 1497.7272727273
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 10
+              }
+            },
+            "tag": "UnitPrice"
+          },
+          "aquantity": {
+            "decimalMantissa": 88,
+            "decimalPlaces": 2,
+            "floatingPoint": 0.88
+          },
+          "astyle": {
+            "ascommodityside": "R",
+            "ascommodityspaced": true,
+            "asdecimalpoint": ".",
+            "asdigitgroups": [
+              ",",
+              [
+                3
+              ]
+            ],
+            "asprecision": 2
+          }
+        },
+        {
+          "acommodity": "USD",
+          "aprice": {
+            "contents": {
+              "acommodity": "KRW",
+              "aprice": null,
+              "aquantity": {
+                "decimalMantissa": 1530,
+                "decimalPlaces": 0,
+                "floatingPoint": 1530
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 0
+              }
+            },
+            "tag": "UnitPrice"
+          },
+          "aquantity": {
+            "decimalMantissa": 90,
+            "decimalPlaces": 2,
+            "floatingPoint": 0.9
+          },
+          "astyle": {
+            "ascommodityside": "R",
+            "ascommodityspaced": true,
+            "asdecimalpoint": ".",
+            "asdigitgroups": [
+              ",",
+              [
+                3
+              ]
+            ],
+            "asprecision": 2
+          }
         }
       ]
     ],
@@ -3778,9 +5450,9 @@
         "acommodity": "KRW",
         "aprice": null,
         "aquantity": {
-          "decimalMantissa": 2100564,
+          "decimalMantissa": 1831064,
           "decimalPlaces": 2,
-          "floatingPoint": 21005.64
+          "floatingPoint": 18310.64
         },
         "astyle": {
           "ascommodityside": "R",
@@ -3903,6 +5575,94 @@
           ],
           "asprecision": 2
         }
+      },
+      {
+        "acommodity": "USD",
+        "aprice": {
+          "contents": {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 14977272727273,
+              "decimalPlaces": 10,
+              "floatingPoint": 1497.7272727273
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 10
+            }
+          },
+          "tag": "UnitPrice"
+        },
+        "aquantity": {
+          "decimalMantissa": 88,
+          "decimalPlaces": 2,
+          "floatingPoint": 0.88
+        },
+        "astyle": {
+          "ascommodityside": "R",
+          "ascommodityspaced": true,
+          "asdecimalpoint": ".",
+          "asdigitgroups": [
+            ",",
+            [
+              3
+            ]
+          ],
+          "asprecision": 2
+        }
+      },
+      {
+        "acommodity": "USD",
+        "aprice": {
+          "contents": {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 1530,
+              "decimalPlaces": 0,
+              "floatingPoint": 1530
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          },
+          "tag": "UnitPrice"
+        },
+        "aquantity": {
+          "decimalMantissa": 9,
+          "decimalPlaces": 1,
+          "floatingPoint": 0.9
+        },
+        "astyle": {
+          "ascommodityside": "R",
+          "ascommodityspaced": true,
+          "asdecimalpoint": ".",
+          "asdigitgroups": [
+            ",",
+            [
+              3
+            ]
+          ],
+          "asprecision": 2
+        }
       }
     ],
     "prrName": [],
@@ -3911,9 +5671,9 @@
         "acommodity": "KRW",
         "aprice": null,
         "aquantity": {
-          "decimalMantissa": 21005640,
+          "decimalMantissa": 18310640,
           "decimalPlaces": 3,
-          "floatingPoint": 21005.64
+          "floatingPoint": 18310.64
         },
         "astyle": {
           "ascommodityside": "R",
@@ -4023,6 +5783,94 @@
           "decimalMantissa": -145000,
           "decimalPlaces": 2,
           "floatingPoint": -1450
+        },
+        "astyle": {
+          "ascommodityside": "R",
+          "ascommodityspaced": true,
+          "asdecimalpoint": ".",
+          "asdigitgroups": [
+            ",",
+            [
+              3
+            ]
+          ],
+          "asprecision": 2
+        }
+      },
+      {
+        "acommodity": "USD",
+        "aprice": {
+          "contents": {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 14977272727273,
+              "decimalPlaces": 10,
+              "floatingPoint": 1497.7272727273
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 10
+            }
+          },
+          "tag": "UnitPrice"
+        },
+        "aquantity": {
+          "decimalMantissa": 88,
+          "decimalPlaces": 2,
+          "floatingPoint": 0.88
+        },
+        "astyle": {
+          "ascommodityside": "R",
+          "ascommodityspaced": true,
+          "asdecimalpoint": ".",
+          "asdigitgroups": [
+            ",",
+            [
+              3
+            ]
+          ],
+          "asprecision": 2
+        }
+      },
+      {
+        "acommodity": "USD",
+        "aprice": {
+          "contents": {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 1530,
+              "decimalPlaces": 0,
+              "floatingPoint": 1530
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          },
+          "tag": "UnitPrice"
+        },
+        "aquantity": {
+          "decimalMantissa": 90,
+          "decimalPlaces": 2,
+          "floatingPoint": 0.9
         },
         "astyle": {
           "ascommodityside": "R",

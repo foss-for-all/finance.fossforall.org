@@ -35,6 +35,228 @@
                   "acommodity": "KRW",
                   "aprice": null,
                   "aquantity": {
+                    "decimalMantissa": 10525,
+                    "decimalPlaces": 0,
+                    "floatingPoint": 10525
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 0
+                  }
+                }
+              ]
+            ],
+            "prrAverage": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 10525,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 10525
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ],
+            "prrName": "사업수익",
+            "prrTotal": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 10525,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 10525
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ]
+          },
+          {
+            "prrAmounts": [
+              [
+                {
+                  "acommodity": "KRW",
+                  "aprice": null,
+                  "aquantity": {
+                    "decimalMantissa": 10525,
+                    "decimalPlaces": 0,
+                    "floatingPoint": 10525
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 0
+                  }
+                }
+              ]
+            ],
+            "prrAverage": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 10525,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 10525
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ],
+            "prrName": "사업수익:수익사업수익",
+            "prrTotal": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 10525,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 10525
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ]
+          },
+          {
+            "prrAmounts": [
+              [
+                {
+                  "acommodity": "KRW",
+                  "aprice": null,
+                  "aquantity": {
+                    "decimalMantissa": 10525,
+                    "decimalPlaces": 0,
+                    "floatingPoint": 10525
+                  },
+                  "astyle": {
+                    "ascommodityside": "R",
+                    "ascommodityspaced": true,
+                    "asdecimalpoint": ".",
+                    "asdigitgroups": [
+                      ",",
+                      [
+                        3
+                      ]
+                    ],
+                    "asprecision": 0
+                  }
+                }
+              ]
+            ],
+            "prrAverage": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 10525,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 10525
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ],
+            "prrName": "사업수익:수익사업수익:기념품판매수익",
+            "prrTotal": [
+              {
+                "acommodity": "KRW",
+                "aprice": null,
+                "aquantity": {
+                  "decimalMantissa": 10525,
+                  "decimalPlaces": 0,
+                  "floatingPoint": 10525
+                },
+                "astyle": {
+                  "ascommodityside": "R",
+                  "ascommodityspaced": true,
+                  "asdecimalpoint": ".",
+                  "asdigitgroups": [
+                    ",",
+                    [
+                      3
+                    ]
+                  ],
+                  "asprecision": 0
+                }
+              }
+            ]
+          },
+          {
+            "prrAmounts": [
+              [
+                {
+                  "acommodity": "KRW",
+                  "aprice": null,
+                  "aquantity": {
                     "decimalMantissa": 13142,
                     "decimalPlaces": 0,
                     "floatingPoint": 13142
@@ -258,9 +480,9 @@
                 "acommodity": "KRW",
                 "aprice": null,
                 "aquantity": {
-                  "decimalMantissa": 13142,
+                  "decimalMantissa": 23667,
                   "decimalPlaces": 0,
-                  "floatingPoint": 13142
+                  "floatingPoint": 23667
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -282,9 +504,9 @@
               "acommodity": "KRW",
               "aprice": null,
               "aquantity": {
-                "decimalMantissa": 13142,
+                "decimalMantissa": 23667,
                 "decimalPlaces": 0,
-                "floatingPoint": 13142
+                "floatingPoint": 23667
               },
               "astyle": {
                 "ascommodityside": "R",
@@ -306,9 +528,9 @@
               "acommodity": "KRW",
               "aprice": null,
               "aquantity": {
-                "decimalMantissa": 13142,
+                "decimalMantissa": 23667,
                 "decimalPlaces": 0,
-                "floatingPoint": 13142
+                "floatingPoint": 23667
               },
               "astyle": {
                 "ascommodityside": "R",
@@ -2462,9 +2684,9 @@
           "acommodity": "KRW",
           "aprice": null,
           "aquantity": {
-            "decimalMantissa": -86190364,
+            "decimalMantissa": -85137864,
             "decimalPlaces": 2,
-            "floatingPoint": -861903.64
+            "floatingPoint": -851378.64
           },
           "astyle": {
             "ascommodityside": "R",
@@ -2590,9 +2812,9 @@
         "acommodity": "KRW",
         "aprice": null,
         "aquantity": {
-          "decimalMantissa": -86190364,
+          "decimalMantissa": -85137864,
           "decimalPlaces": 2,
-          "floatingPoint": -861903.64
+          "floatingPoint": -851378.64
         },
         "astyle": {
           "ascommodityside": "R",
@@ -2718,9 +2940,9 @@
         "acommodity": "KRW",
         "aprice": null,
         "aquantity": {
-          "decimalMantissa": -86190364,
+          "decimalMantissa": -85137864,
           "decimalPlaces": 2,
-          "floatingPoint": -861903.64
+          "floatingPoint": -851378.64
         },
         "astyle": {
           "ascommodityside": "R",

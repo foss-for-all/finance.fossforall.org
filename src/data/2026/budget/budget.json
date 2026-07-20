@@ -826,9 +826,9 @@
               "acommodity": "KRW",
               "aprice": null,
               "aquantity": {
-                "decimalMantissa": 1003774,
+                "decimalMantissa": 1728774,
                 "decimalPlaces": 0,
-                "floatingPoint": 1003774
+                "floatingPoint": 1728774
               },
               "astyle": {
                 "ascommodityside": "R",
@@ -875,9 +875,9 @@
             "acommodity": "KRW",
             "aprice": null,
             "aquantity": {
-              "decimalMantissa": 1003774,
+              "decimalMantissa": 1728774,
               "decimalPlaces": 0,
-              "floatingPoint": 1003774
+              "floatingPoint": 1728774
             },
             "astyle": {
               "ascommodityside": "R",
@@ -924,9 +924,9 @@
             "acommodity": "KRW",
             "aprice": null,
             "aquantity": {
-              "decimalMantissa": 1003774,
+              "decimalMantissa": 1728774,
               "decimalPlaces": 0,
-              "floatingPoint": 1003774
+              "floatingPoint": 1728774
             },
             "astyle": {
               "ascommodityside": "R",
@@ -970,7 +970,29 @@
     {
       "prrAmounts": [
         [
-          null,
+          [
+            {
+              "acommodity": "KRW",
+              "aprice": null,
+              "aquantity": {
+                "decimalMantissa": 725000,
+                "decimalPlaces": 0,
+                "floatingPoint": 725000
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 0
+              }
+            }
+          ],
           [
             {
               "acommodity": "KRW",
@@ -997,7 +1019,29 @@
         ]
       ],
       "prrAverage": [
-        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 725000,
+              "decimalPlaces": 0,
+              "floatingPoint": 725000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ],
         [
           {
             "acommodity": "KRW",
@@ -1024,7 +1068,29 @@
       ],
       "prrName": "수입:FOSS기부금분배",
       "prrTotal": [
-        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 725000,
+              "decimalPlaces": 0,
+              "floatingPoint": 725000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ],
         [
           {
             "acommodity": "KRW",
@@ -1053,7 +1119,29 @@
     {
       "prrAmounts": [
         [
-          null,
+          [
+            {
+              "acommodity": "KRW",
+              "aprice": null,
+              "aquantity": {
+                "decimalMantissa": 725000,
+                "decimalPlaces": 0,
+                "floatingPoint": 725000
+              },
+              "astyle": {
+                "ascommodityside": "R",
+                "ascommodityspaced": true,
+                "asdecimalpoint": ".",
+                "asdigitgroups": [
+                  ",",
+                  [
+                    3
+                  ]
+                ],
+                "asprecision": 0
+              }
+            }
+          ],
           [
             {
               "acommodity": "KRW",
@@ -1080,7 +1168,29 @@
         ]
       ],
       "prrAverage": [
-        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 725000,
+              "decimalPlaces": 0,
+              "floatingPoint": 725000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ],
         [
           {
             "acommodity": "KRW",
@@ -1107,7 +1217,29 @@
       ],
       "prrName": "수입:FOSS기부금분배:기부금",
       "prrTotal": [
-        null,
+        [
+          {
+            "acommodity": "KRW",
+            "aprice": null,
+            "aquantity": {
+              "decimalMantissa": 725000,
+              "decimalPlaces": 0,
+              "floatingPoint": 725000
+            },
+            "astyle": {
+              "ascommodityside": "R",
+              "ascommodityspaced": true,
+              "asdecimalpoint": ".",
+              "asdigitgroups": [
+                ",",
+                [
+                  3
+                ]
+              ],
+              "asprecision": 0
+            }
+          }
+        ],
         [
           {
             "acommodity": "KRW",
@@ -4688,9 +4820,9 @@
             "acommodity": "KRW",
             "aprice": null,
             "aquantity": {
-              "decimalMantissa": 2616818640,
+              "decimalMantissa": 3341818640,
               "decimalPlaces": 3,
-              "floatingPoint": 2616818.64
+              "floatingPoint": 3341818.64
             },
             "astyle": {
               "ascommodityside": "R",
@@ -4978,9 +5110,9 @@
           "acommodity": "KRW",
           "aprice": null,
           "aquantity": {
-            "decimalMantissa": 261681864,
+            "decimalMantissa": 334181864,
             "decimalPlaces": 2,
-            "floatingPoint": 2616818.64
+            "floatingPoint": 3341818.64
           },
           "astyle": {
             "ascommodityside": "R",
@@ -5268,9 +5400,9 @@
           "acommodity": "KRW",
           "aprice": null,
           "aquantity": {
-            "decimalMantissa": 2616818640,
+            "decimalMantissa": 3341818640,
             "decimalPlaces": 3,
-            "floatingPoint": 2616818.64
+            "floatingPoint": 3341818.64
           },
           "astyle": {
             "ascommodityside": "R",

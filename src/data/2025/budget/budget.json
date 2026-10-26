@@ -1,16 +1,26 @@
 {
-  "prDates": [],
+  "prDates": [
+    [
+      null,
+      null
+    ]
+  ],
   "prRows": [],
   "prTotals": {
-    "prrAmounts": [],
+    "prrAmounts": [
+      [
+        [],
+        null
+      ]
+    ],
     "prrAverage": [
       [],
-      null
+      []
     ],
     "prrName": [],
     "prrTotal": [
       [],
-      null
+      []
     ]
   }
 }

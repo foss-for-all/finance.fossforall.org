@@ -35,9 +35,9 @@
                   "acommodity": "KRW",
                   "acost": null,
                   "aquantity": {
-                    "decimalMantissa": 804385500,
+                    "decimalMantissa": 1254385500,
                     "decimalPlaces": 2,
-                    "floatingPoint": 8043855
+                    "floatingPoint": 12543855
                   },
                   "astyle": {
                     "ascommodityside": "R",
@@ -60,9 +60,9 @@
                 "acommodity": "KRW",
                 "acost": null,
                 "aquantity": {
-                  "decimalMantissa": 8043855,
+                  "decimalMantissa": 12543855,
                   "decimalPlaces": 0,
-                  "floatingPoint": 8043855
+                  "floatingPoint": 12543855
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -85,9 +85,9 @@
                 "acommodity": "KRW",
                 "acost": null,
                 "aquantity": {
-                  "decimalMantissa": 804385500,
+                  "decimalMantissa": 1254385500,
                   "decimalPlaces": 2,
-                  "floatingPoint": 8043855
+                  "floatingPoint": 12543855
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -343,9 +343,9 @@
                   "acommodity": "KRW",
                   "acost": null,
                   "aquantity": {
-                    "decimalMantissa": 520753500,
+                    "decimalMantissa": 970753500,
                     "decimalPlaces": 2,
-                    "floatingPoint": 5207535
+                    "floatingPoint": 9707535
                   },
                   "astyle": {
                     "ascommodityside": "R",
@@ -368,9 +368,9 @@
                 "acommodity": "KRW",
                 "acost": null,
                 "aquantity": {
-                  "decimalMantissa": 5207535,
+                  "decimalMantissa": 9707535,
                   "decimalPlaces": 0,
-                  "floatingPoint": 5207535
+                  "floatingPoint": 9707535
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -393,9 +393,9 @@
                 "acommodity": "KRW",
                 "acost": null,
                 "aquantity": {
-                  "decimalMantissa": 520753500,
+                  "decimalMantissa": 970753500,
                   "decimalPlaces": 2,
-                  "floatingPoint": 5207535
+                  "floatingPoint": 9707535
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -420,9 +420,9 @@
                   "acommodity": "KRW",
                   "acost": null,
                   "aquantity": {
-                    "decimalMantissa": 519701000,
+                    "decimalMantissa": 969701000,
                     "decimalPlaces": 2,
-                    "floatingPoint": 5197010
+                    "floatingPoint": 9697010
                   },
                   "astyle": {
                     "ascommodityside": "R",
@@ -445,9 +445,9 @@
                 "acommodity": "KRW",
                 "acost": null,
                 "aquantity": {
-                  "decimalMantissa": 5197010,
+                  "decimalMantissa": 9697010,
                   "decimalPlaces": 0,
-                  "floatingPoint": 5197010
+                  "floatingPoint": 9697010
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -470,9 +470,9 @@
                 "acommodity": "KRW",
                 "acost": null,
                 "aquantity": {
-                  "decimalMantissa": 519701000,
+                  "decimalMantissa": 969701000,
                   "decimalPlaces": 2,
-                  "floatingPoint": 5197010
+                  "floatingPoint": 9697010
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -883,9 +883,9 @@
                 "acommodity": "KRW",
                 "acost": null,
                 "aquantity": {
-                  "decimalMantissa": 806222900,
+                  "decimalMantissa": 1256222900,
                   "decimalPlaces": 2,
-                  "floatingPoint": 8062229
+                  "floatingPoint": 12562229
                 },
                 "astyle": {
                   "ascommodityside": "R",
@@ -908,9 +908,9 @@
               "acommodity": "KRW",
               "acost": null,
               "aquantity": {
-                "decimalMantissa": 8062229,
+                "decimalMantissa": 12562229,
                 "decimalPlaces": 0,
-                "floatingPoint": 8062229
+                "floatingPoint": 12562229
               },
               "astyle": {
                 "ascommodityside": "R",
@@ -933,9 +933,9 @@
               "acommodity": "KRW",
               "acost": null,
               "aquantity": {
-                "decimalMantissa": 806222900,
+                "decimalMantissa": 1256222900,
                 "decimalPlaces": 2,
-                "floatingPoint": 8062229
+                "floatingPoint": 12562229
               },
               "astyle": {
                 "ascommodityside": "R",
@@ -2602,9 +2602,9 @@
           "acommodity": "KRW",
           "acost": null,
           "aquantity": {
-            "decimalMantissa": 547770936,
+            "decimalMantissa": 997770936,
             "decimalPlaces": 2,
-            "floatingPoint": 5477709.36
+            "floatingPoint": 9977709.36
           },
           "astyle": {
             "ascommodityside": "R",
@@ -2627,9 +2627,9 @@
         "acommodity": "KRW",
         "acost": null,
         "aquantity": {
-          "decimalMantissa": 547770936,
+          "decimalMantissa": 997770936,
           "decimalPlaces": 2,
-          "floatingPoint": 5477709.36
+          "floatingPoint": 9977709.36
         },
         "astyle": {
           "ascommodityside": "R",
@@ -2652,9 +2652,9 @@
         "acommodity": "KRW",
         "acost": null,
         "aquantity": {
-          "decimalMantissa": 547770936,
+          "decimalMantissa": 997770936,
           "decimalPlaces": 2,
-          "floatingPoint": 5477709.36
+          "floatingPoint": 9977709.36
         },
         "astyle": {
           "ascommodityside": "R",

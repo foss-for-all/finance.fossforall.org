@@ -7909,30 +7909,7 @@
     {
       "prrAmounts": [
         [
-          [
-            {
-              "acommodity": "KRW",
-              "acost": null,
-              "aquantity": {
-                "decimalMantissa": 406700,
-                "decimalPlaces": 0,
-                "floatingPoint": 406700
-              },
-              "astyle": {
-                "ascommodityside": "R",
-                "ascommodityspaced": true,
-                "asdecimalmark": ".",
-                "asdigitgroups": [
-                  ",",
-                  [
-                    3
-                  ]
-                ],
-                "asprecision": 0,
-                "asrounding": "HardRounding"
-              }
-            }
-          ],
+          [],
           [
             {
               "acommodity": "KRW",
@@ -7960,30 +7937,7 @@
         ]
       ],
       "prrAverage": [
-        [
-          {
-            "acommodity": "KRW",
-            "acost": null,
-            "aquantity": {
-              "decimalMantissa": 406700,
-              "decimalPlaces": 0,
-              "floatingPoint": 406700
-            },
-            "astyle": {
-              "ascommodityside": "R",
-              "ascommodityspaced": true,
-              "asdecimalmark": ".",
-              "asdigitgroups": [
-                ",",
-                [
-                  3
-                ]
-              ],
-              "asprecision": 0,
-              "asrounding": "HardRounding"
-            }
-          }
-        ],
+        [],
         [
           {
             "acommodity": "KRW",
@@ -8011,30 +7965,7 @@
       ],
       "prrName": "지출:컨퍼런스:여비교통비",
       "prrTotal": [
-        [
-          {
-            "acommodity": "KRW",
-            "acost": null,
-            "aquantity": {
-              "decimalMantissa": 406700,
-              "decimalPlaces": 0,
-              "floatingPoint": 406700
-            },
-            "astyle": {
-              "ascommodityside": "R",
-              "ascommodityspaced": true,
-              "asdecimalmark": ".",
-              "asdigitgroups": [
-                ",",
-                [
-                  3
-                ]
-              ],
-              "asprecision": 0,
-              "asrounding": "HardRounding"
-            }
-          }
-        ],
+        [],
         [
           {
             "acommodity": "KRW",
@@ -8069,9 +8000,9 @@
               "acommodity": "KRW",
               "acost": null,
               "aquantity": {
-                "decimalMantissa": 84500,
+                "decimalMantissa": 491200,
                 "decimalPlaces": 0,
-                "floatingPoint": 84500
+                "floatingPoint": 491200
               },
               "astyle": {
                 "ascommodityside": "R",
@@ -8120,9 +8051,9 @@
             "acommodity": "KRW",
             "acost": null,
             "aquantity": {
-              "decimalMantissa": 84500,
+              "decimalMantissa": 491200,
               "decimalPlaces": 0,
-              "floatingPoint": 84500
+              "floatingPoint": 491200
             },
             "astyle": {
               "ascommodityside": "R",
@@ -8171,9 +8102,9 @@
             "acommodity": "KRW",
             "acost": null,
             "aquantity": {
-              "decimalMantissa": 84500,
+              "decimalMantissa": 491200,
               "decimalPlaces": 0,
-              "floatingPoint": 84500
+              "floatingPoint": 491200
             },
             "astyle": {
               "ascommodityside": "R",
